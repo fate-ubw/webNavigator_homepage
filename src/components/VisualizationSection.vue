@@ -2,8 +2,11 @@
 import { ref, onMounted, shallowRef, reactive, computed, watch, onUnmounted } from 'vue'
 import * as echarts from 'echarts'
 
+// Base URL for assets (handles GitHub Pages deployment)
+const BASE_URL = import.meta.env.BASE_URL
+
 // Trajectory player state
-const TRAJECTORY_PATH = '/webarena-760'
+const TRAJECTORY_PATH = `${BASE_URL}webarena-760`
 const trajectoryData = ref(null)
 const totalSteps = computed(() => trajectoryData.value?.trajectory?.length || 0)
 const isPlaying = ref(false)
@@ -585,11 +588,11 @@ const loadTrajectory = async () => {
 }
 
 const GRAPH_TABS = [
-  { id: 'map', name: 'Map', path: '/graph/run_id-20251111-180558-map-20' },
-  { id: 'admin', name: 'Admin', path: '/graph/run_id-20251026-151146-admin-124' },
-  { id: 'gitlab', name: 'GitLab', path: '/graph/run_id-20251026-190417-gitlab-827' },
-  { id: 'shopping', name: 'Shopping', path: '/graph/run_id-20251107-133622-shopping-570' },
-  { id: 'postmill', name: 'Reddit', path: '/graph/run_id-20251207-190950-postmill-225' },
+  { id: 'map', name: 'Map', path: `${BASE_URL}graph/run_id-20251111-180558-map-20` },
+  { id: 'admin', name: 'Admin', path: `${BASE_URL}graph/run_id-20251026-151146-admin-124` },
+  { id: 'gitlab', name: 'GitLab', path: `${BASE_URL}graph/run_id-20251026-190417-gitlab-827` },
+  { id: 'shopping', name: 'Shopping', path: `${BASE_URL}graph/run_id-20251107-133622-shopping-570` },
+  { id: 'postmill', name: 'Reddit', path: `${BASE_URL}graph/run_id-20251207-190950-postmill-225` },
 ]
 
 const activeTab = ref('map')

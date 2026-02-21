@@ -1,4 +1,6 @@
 <script setup>
+const BASE_URL = import.meta.env.BASE_URL
+
 const phases = [
   {
     title: 'Phase I: Offline Interaction Graph Construction',
@@ -62,7 +64,7 @@ const phases = [
       <!-- Method Figure -->
       <div class="mb-12">
         <img 
-          src="/fig1-v19.svg" 
+          :src="`${BASE_URL}fig1-v19.svg`" 
           alt="WebNavigator Overview"
           class="max-w-full mx-auto rounded-xl shadow-lg"
         />

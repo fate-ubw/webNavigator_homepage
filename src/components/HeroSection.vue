@@ -1,4 +1,6 @@
 <script setup>
+const BASE_URL = import.meta.env.BASE_URL
+
 const authors = [
   { name: 'Xuanwang Zhang', url: '#' },
   { name: 'Yuteng Han', url: '#' },
@@ -61,7 +63,7 @@ const links = [
       <!-- Teaser Figure -->
       <div class="mt-12">
         <img 
-          src="/fig2-v10.svg" 
+          :src="`${BASE_URL}fig2-v10.svg`" 
           alt="WebNavigator Trajectory Comparison"
           class="w-full mx-auto rounded-xl shadow-2xl"
         />
