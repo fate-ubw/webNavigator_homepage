@@ -98,14 +98,18 @@ const preloadHighlightedImages = async () => {
     }))
   
   for (const { targetPage, tabId } of targetPages) {
-    const graphPath = GRAPH_TABS.find(t => t.id === tabId)?.path
-    if (!graphPath) continue
+    const graphData = graphDataMap[tabId]
+    if (!graphData) continue
     
     const cacheKey = `${tabId}_${targetPage}`
     if (highlightedImageCache[cacheKey]) continue
     
-    const imagePath = `${graphPath}/screenshots_cropped_resized/${targetPage}`
-    const highlightedImage = await createBorderedImage(imagePath, '#ef4444', 6)
+    // Find the node by screen_path to get its image_base64
+    const node = Object.values(graphData.nodes).find(n => n.screen_path === targetPage)
+    if (!node) continue
+    
+    const imageSrc = getNodeImageSrc(tabId, node)
+    const highlightedImage = await createBorderedImage(imageSrc, '#ef4444', 6)
     highlightedImageCache[cacheKey] = highlightedImage
   }
 }
@@ -206,9 +210,7 @@ const startHighlightTransition = (tabId, targetPage) => {
   )
   if (!nodeEntry) return
   
-  const [nodeId] = nodeEntry
-  const graphPath = GRAPH_TABS.find(t => t.id === tabId)?.path
-  if (!graphPath) return
+  const [nodeId, nodeData] = nodeEntry
   
   const option = chartInstance.getOption()
   if (!option?.series?.[0]?.data) return
@@ -246,6 +248,9 @@ const startHighlightTransition = (tabId, targetPage) => {
     originalBorderColor = originalNodeData.can_arrival_directly ? '#10b981' : '#f59e0b'
   }
   
+  // Get image source (base64 or URL)
+  const imageSrc = getNodeImageSrc(tabId, nodeData)
+  
   const animate = async (currentTime) => {
     if (!currentHighlightTarget.value || currentHighlightTarget.value.nodeId !== nodeId) {
       showNavigatingOverlay.value = false
@@ -273,8 +278,7 @@ const startHighlightTransition = (tabId, targetPage) => {
     const currentWidth = originalWidth + (targetWidth - originalWidth) * progress
     
     // Create bordered image with current color
-    const imagePath = `${graphPath}/screenshots_cropped_resized/${targetPage}`
-    const borderedImage = await createBorderedImage(imagePath, currentColor, currentWidth)
+    const borderedImage = await createBorderedImage(imageSrc, currentColor, currentWidth)
     
     // Update node
     const currentOption = chartInstance.getOption()
@@ -653,6 +657,18 @@ const createBorderedImage = (imageSrc, borderColor, borderWidth) => {
   })
 }
 
+// Get image source for a node - prefer embedded base64, fallback to URL
+const getNodeImageSrc = (tabId, node) => {
+  // If node has embedded base64 image, use it directly
+  if (node.image_base64) {
+    return node.image_base64
+  }
+  // Fallback to URL-based loading (for development or if base64 not available)
+  const tab = GRAPH_TABS.find(t => t.id === tabId)
+  if (!tab) return null
+  return `${tab.path}/screenshots_cropped_resized/${node.screen_path}`
+}
+
 // Load graph data (JSON only, no image processing)
 const loadGraphData = async (tabId) => {
   if (graphDataMap[tabId]) return graphDataMap[tabId]
@@ -679,7 +695,6 @@ const processNodes = async (tabId) => {
   const tab = GRAPH_TABS.find(t => t.id === tabId)
   if (!graphData || !tab) return null
   
-  const graphPath = tab.path
   const nodes = []
   const nodeValues = Object.values(graphData.nodes)
   
@@ -688,7 +703,7 @@ const processNodes = async (tabId) => {
   for (let i = 0; i < nodeValues.length; i += batchSize) {
     const batch = nodeValues.slice(i, i + batchSize)
     const batchResults = await Promise.all(batch.map(async (node) => {
-      const imagePath = `${graphPath}/screenshots_cropped_resized/${node.screen_path}`
+      const imageSrc = getNodeImageSrc(tabId, node)
       const isRootNode = node.screen_path.includes('start')
       
       let borderColor = '#3b82f6'
@@ -697,7 +712,7 @@ const processNodes = async (tabId) => {
       }
       
       const borderWidth = isRootNode ? 4 : 3
-      const borderedImage = await createBorderedImage(imagePath, borderColor, borderWidth)
+      const borderedImage = await createBorderedImage(imageSrc, borderColor, borderWidth)
       
       return {
         id: node.node_id,
