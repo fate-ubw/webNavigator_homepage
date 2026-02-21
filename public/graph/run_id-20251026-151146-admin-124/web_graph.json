@@ -1,0 +1,5021 @@
+{
+  "nodes": {
+    "48d703426d0ed7af2ff28a9e4b4c410b": {
+      "node_id": "48d703426d0ed7af2ff28a9e4b4c410b",
+      "screen_path": "explore_screenshot_start.png",
+      "url": "http://webarena.cms/admin/admin/dashboard/",
+      "can_arrival_directly": true
+    },
+    "743cfc507f2cca27b9aeb397cae82d1e": {
+      "node_id": "743cfc507f2cca27b9aeb397cae82d1e",
+      "screen_path": "explore_screenshot_0-0-2.png",
+      "url": "http://webarena.cms/admin/admin/dashboard/",
+      "can_arrival_directly": false
+    },
+    "238f6f5220a04b448baf892b1bdd43cf": {
+      "node_id": "238f6f5220a04b448baf892b1bdd43cf",
+      "screen_path": "explore_screenshot_0-0-3.png",
+      "url": "http://webarena.cms/admin/admin/dashboard/",
+      "can_arrival_directly": false
+    },
+    "f8598aca71abe6ba5f4b8770aba3d8d9": {
+      "node_id": "f8598aca71abe6ba5f4b8770aba3d8d9",
+      "screen_path": "explore_screenshot_0-0-4.png",
+      "url": "http://webarena.cms/admin/admin/dashboard/",
+      "can_arrival_directly": false
+    },
+    "7c1a3669098a373d8835c369e02a48ea": {
+      "node_id": "7c1a3669098a373d8835c369e02a48ea",
+      "screen_path": "explore_screenshot_0-0-5.png",
+      "url": "http://webarena.cms/admin/admin/dashboard/",
+      "can_arrival_directly": false
+    },
+    "bcf4553ea43753a4c5ee35a029f2e4ac": {
+      "node_id": "bcf4553ea43753a4c5ee35a029f2e4ac",
+      "screen_path": "explore_screenshot_0-0-6.png",
+      "url": "http://webarena.cms/admin/admin/dashboard/",
+      "can_arrival_directly": false
+    },
+    "98e4a517bc9b65b71f2ea998ff398aca": {
+      "node_id": "98e4a517bc9b65b71f2ea998ff398aca",
+      "screen_path": "explore_screenshot_0-0-7.png",
+      "url": "http://webarena.cms/admin/admin/dashboard/",
+      "can_arrival_directly": false
+    },
+    "fd606c6af41cd156c99ef0a5e6918faa": {
+      "node_id": "fd606c6af41cd156c99ef0a5e6918faa",
+      "screen_path": "explore_screenshot_0-0-8.png",
+      "url": "http://webarena.cms/admin/admin/dashboard/",
+      "can_arrival_directly": false
+    },
+    "19556024e4a48a616b13c7dbf4db302c": {
+      "node_id": "19556024e4a48a616b13c7dbf4db302c",
+      "screen_path": "explore_screenshot_0-0-9.png",
+      "url": "http://webarena.cms/admin/admin/dashboard/",
+      "can_arrival_directly": false
+    },
+    "3c91bef94548630bc4b6f095cf564b3b": {
+      "node_id": "3c91bef94548630bc4b6f095cf564b3b",
+      "screen_path": "explore_screenshot_0-0-10.png",
+      "url": "http://webarena.cms/admin/marketplace/index/",
+      "can_arrival_directly": true
+    },
+    "e8fa264ab56314a6ccfe26d81c90c954": {
+      "node_id": "e8fa264ab56314a6ccfe26d81c90c954",
+      "screen_path": "explore_screenshot_0-0-11.png",
+      "url": "http://webarena.cms/admin/admin/dashboard/",
+      "can_arrival_directly": false
+    },
+    "95046b151286880f243340f48c9ada06": {
+      "node_id": "95046b151286880f243340f48c9ada06",
+      "screen_path": "explore_screenshot_0-0-12.png",
+      "url": "http://webarena.cms/admin/admin/notification/index/",
+      "can_arrival_directly": false
+    },
+    "50e1b9b4bde3fe769e587ab3b5dd87bf": {
+      "node_id": "50e1b9b4bde3fe769e587ab3b5dd87bf",
+      "screen_path": "explore_screenshot_0-0-18.png",
+      "url": "http://webarena.cms/admin/admin/dashboard/",
+      "can_arrival_directly": true
+    },
+    "490dd1bf711dbf438743b8c424c7eb8e": {
+      "node_id": "490dd1bf711dbf438743b8c424c7eb8e",
+      "screen_path": "explore_screenshot_0-0-20.png",
+      "url": "http://webarena.cms/admin/admin/system_config/edit/section/admin/#admin_dashboard-link",
+      "can_arrival_directly": false
+    },
+    "743fc4f45487b7d0abd19e8af0510766": {
+      "node_id": "743fc4f45487b7d0abd19e8af0510766",
+      "screen_path": "explore_screenshot_0-0-22.png",
+      "url": "http://webarena.cms/admin/admin/dashboard/",
+      "can_arrival_directly": false
+    },
+    "f559c561af99a2fd29bb2a7994f6b890": {
+      "node_id": "f559c561af99a2fd29bb2a7994f6b890",
+      "screen_path": "explore_screenshot_0-0-23.png",
+      "url": "http://webarena.cms/admin/admin/dashboard/",
+      "can_arrival_directly": false
+    },
+    "7b8ab9476bef4a9272b4a6caae28c54e": {
+      "node_id": "7b8ab9476bef4a9272b4a6caae28c54e",
+      "screen_path": "explore_screenshot_0-0-24.png",
+      "url": "http://webarena.cms/admin/admin/dashboard/",
+      "can_arrival_directly": false
+    },
+    "5815b3a4ae3dd95c6204a992dba2fa4b": {
+      "node_id": "5815b3a4ae3dd95c6204a992dba2fa4b",
+      "screen_path": "explore_screenshot_1-0-0.png",
+      "url": "http://webarena.cms/admin/admin/dashboard/",
+      "can_arrival_directly": false
+    },
+    "bdd4ab8609b4231a4c21eac55999e301": {
+      "node_id": "bdd4ab8609b4231a4c21eac55999e301",
+      "screen_path": "explore_screenshot_1-0-1.png",
+      "url": "http://webarena.cms/admin/braintree/virtual/",
+      "can_arrival_directly": false
+    },
+    "800d655f2e3ab89bb80fdebeb22fe6c5": {
+      "node_id": "800d655f2e3ab89bb80fdebeb22fe6c5",
+      "screen_path": "explore_screenshot_1-0-2.png",
+      "url": "http://webarena.cms/admin/sales/creditmemo/",
+      "can_arrival_directly": false
+    },
+    "7a89346f93e214ee20556ad6735ffd09": {
+      "node_id": "7a89346f93e214ee20556ad6735ffd09",
+      "screen_path": "explore_screenshot_1-0-3.png",
+      "url": "http://webarena.cms/admin/paypal/billing_agreement/",
+      "can_arrival_directly": false
+    },
+    "c9bb5fd612c0382f5621cb3388dd187d": {
+      "node_id": "c9bb5fd612c0382f5621cb3388dd187d",
+      "screen_path": "explore_screenshot_1-0-4.png",
+      "url": "http://webarena.cms/admin/sales/invoice/",
+      "can_arrival_directly": false
+    },
+    "69bcdc2b666156297c60b6b05205c919": {
+      "node_id": "69bcdc2b666156297c60b6b05205c919",
+      "screen_path": "explore_screenshot_1-0-5.png",
+      "url": "http://webarena.cms/admin/sales/shipment/",
+      "can_arrival_directly": true
+    },
+    "5e69c2413e288152a06123ba11904c3e": {
+      "node_id": "5e69c2413e288152a06123ba11904c3e",
+      "screen_path": "explore_screenshot_1-0-6.png",
+      "url": "http://webarena.cms/admin/sales/order/",
+      "can_arrival_directly": true
+    },
+    "5dfcc8725ac0c363a513abdeeccb167d": {
+      "node_id": "5dfcc8725ac0c363a513abdeeccb167d",
+      "screen_path": "explore_screenshot_1-0-7.png",
+      "url": "http://webarena.cms/admin/sales/transactions/",
+      "can_arrival_directly": false
+    },
+    "99f37585af3e3beba9e3b2a3da9874e4": {
+      "node_id": "99f37585af3e3beba9e3b2a3da9874e4",
+      "screen_path": "explore_screenshot_1-1-0.png",
+      "url": "http://webarena.cms/admin/catalog/product/",
+      "can_arrival_directly": false
+    },
+    "924045a22201e9cb48d10e3777679132": {
+      "node_id": "924045a22201e9cb48d10e3777679132",
+      "screen_path": "explore_screenshot_1-1-1.png",
+      "url": "http://webarena.cms/admin/catalog/category/",
+      "can_arrival_directly": false
+    },
+    "c668ff0ec96a5c009a6b4e0729c16994": {
+      "node_id": "c668ff0ec96a5c009a6b4e0729c16994",
+      "screen_path": "explore_screenshot_1-1-2.png",
+      "url": "http://webarena.cms/admin/admin/dashboard/",
+      "can_arrival_directly": false
+    },
+    "3f1260ebbc2cce970a673be64c1341b3": {
+      "node_id": "3f1260ebbc2cce970a673be64c1341b3",
+      "screen_path": "explore_screenshot_1-2-0.png",
+      "url": "http://webarena.cms/admin/loginascustomer_log/log/index/",
+      "can_arrival_directly": true
+    },
+    "5853a82b0662e795b7d952a8813fc95c": {
+      "node_id": "5853a82b0662e795b7d952a8813fc95c",
+      "screen_path": "explore_screenshot_1-2-1.png",
+      "url": "http://webarena.cms/admin/admin/dashboard/",
+      "can_arrival_directly": false
+    },
+    "1b711c5c1f723df34549cb96d39dcac8": {
+      "node_id": "1b711c5c1f723df34549cb96d39dcac8",
+      "screen_path": "explore_screenshot_1-2-2.png",
+      "url": "http://webarena.cms/admin/customer/online/",
+      "can_arrival_directly": true
+    },
+    "343c422e41e1b5bef3d165facaea1dd9": {
+      "node_id": "343c422e41e1b5bef3d165facaea1dd9",
+      "screen_path": "explore_screenshot_1-2-3.png",
+      "url": "http://webarena.cms/admin/customer/index/",
+      "can_arrival_directly": true
+    },
+    "5b35e50429cba3c360f9622afd76e00f": {
+      "node_id": "5b35e50429cba3c360f9622afd76e00f",
+      "screen_path": "explore_screenshot_1-2-4.png",
+      "url": "http://webarena.cms/admin/customer/group/",
+      "can_arrival_directly": true
+    },
+    "9f0281f06d4da6c8679b229a00b09734": {
+      "node_id": "9f0281f06d4da6c8679b229a00b09734",
+      "screen_path": "explore_screenshot_1-3-0.png",
+      "url": "http://webarena.cms/admin/sales_rule/promo_quote/",
+      "can_arrival_directly": false
+    },
+    "ab5334b190e91942f4c8dd144ce24d0f": {
+      "node_id": "ab5334b190e91942f4c8dd144ce24d0f",
+      "screen_path": "explore_screenshot_1-3-1.png",
+      "url": "http://webarena.cms/admin/admin/dashboard/",
+      "can_arrival_directly": false
+    },
+    "40606691904314ad13bfebe3dc0051ad": {
+      "node_id": "40606691904314ad13bfebe3dc0051ad",
+      "screen_path": "explore_screenshot_1-3-2.png",
+      "url": "http://webarena.cms/admin/search/synonyms/index/",
+      "can_arrival_directly": false
+    },
+    "bb794d018ecf9d0a0bbf638e5c59ecff": {
+      "node_id": "bb794d018ecf9d0a0bbf638e5c59ecff",
+      "screen_path": "explore_screenshot_1-3-3.png",
+      "url": "http://webarena.cms/admin/review/product/index/",
+      "can_arrival_directly": false
+    },
+    "e69083d05d257a8f563f69543af721eb": {
+      "node_id": "e69083d05d257a8f563f69543af721eb",
+      "screen_path": "explore_screenshot_1-3-4.png",
+      "url": "http://webarena.cms/admin/newsletter/template/",
+      "can_arrival_directly": false
+    },
+    "ba43750f7ce75a5313e18d4886aab067": {
+      "node_id": "ba43750f7ce75a5313e18d4886aab067",
+      "screen_path": "explore_screenshot_1-3-5.png",
+      "url": "http://webarena.cms/admin/newsletter/queue/",
+      "can_arrival_directly": false
+    },
+    "43b0b9c175bf8f03fbae9aaf8a3215fd": {
+      "node_id": "43b0b9c175bf8f03fbae9aaf8a3215fd",
+      "screen_path": "explore_screenshot_1-3-6.png",
+      "url": "http://webarena.cms/admin/admin/sitemap/",
+      "can_arrival_directly": false
+    },
+    "652ecc74c1793f7b5b1449a0848f147f": {
+      "node_id": "652ecc74c1793f7b5b1449a0848f147f",
+      "screen_path": "explore_screenshot_1-3-7.png",
+      "url": "http://webarena.cms/admin/newsletter/subscriber/",
+      "can_arrival_directly": false
+    },
+    "d7229fc24c218960d3a8bdf11a3b2ec1": {
+      "node_id": "d7229fc24c218960d3a8bdf11a3b2ec1",
+      "screen_path": "explore_screenshot_1-3-8.png",
+      "url": "http://webarena.cms/admin/review/product/pending/",
+      "can_arrival_directly": false
+    },
+    "cf8fa0d09351907a5043769fd6c18acd": {
+      "node_id": "cf8fa0d09351907a5043769fd6c18acd",
+      "screen_path": "explore_screenshot_1-3-9.png",
+      "url": "http://webarena.cms/admin/admin/email_template/",
+      "can_arrival_directly": false
+    },
+    "bb0e24e0863ef4bfb6de9a2ab144a7f6": {
+      "node_id": "bb0e24e0863ef4bfb6de9a2ab144a7f6",
+      "screen_path": "explore_screenshot_1-3-10.png",
+      "url": "http://webarena.cms/admin/catalog_rule/promo_catalog/",
+      "can_arrival_directly": false
+    },
+    "da57d4e71ce1141ba44773d9f930348c": {
+      "node_id": "da57d4e71ce1141ba44773d9f930348c",
+      "screen_path": "explore_screenshot_1-3-11.png",
+      "url": "http://webarena.cms/admin/search/term/index/",
+      "can_arrival_directly": false
+    },
+    "a3e17562575bf6eefb4ffe6ae80dd82c": {
+      "node_id": "a3e17562575bf6eefb4ffe6ae80dd82c",
+      "screen_path": "explore_screenshot_1-3-12.png",
+      "url": "http://webarena.cms/admin/admin/url_rewrite/index/",
+      "can_arrival_directly": true
+    },
+    "7c8597cd005e65bb5a5f69184ad129d9": {
+      "node_id": "7c8597cd005e65bb5a5f69184ad129d9",
+      "screen_path": "explore_screenshot_1-4-0.png",
+      "url": "http://webarena.cms/admin/admin/widget_instance/",
+      "can_arrival_directly": false
+    },
+    "8a083cc70df267ae1f755aa09ed8a8ce": {
+      "node_id": "8a083cc70df267ae1f755aa09ed8a8ce",
+      "screen_path": "explore_screenshot_1-4-1.png",
+      "url": "http://webarena.cms/admin/admin/system_design_theme/",
+      "can_arrival_directly": true
+    },
+    "c7437025e4a4fcd774eac80b0d3cbfec": {
+      "node_id": "c7437025e4a4fcd774eac80b0d3cbfec",
+      "screen_path": "explore_screenshot_1-4-2.png",
+      "url": "http://webarena.cms/admin/admin/dashboard/",
+      "can_arrival_directly": false
+    },
+    "963f3205d094f33f4e70dc2cbf1a2733": {
+      "node_id": "963f3205d094f33f4e70dc2cbf1a2733",
+      "screen_path": "explore_screenshot_1-4-3.png",
+      "url": "http://webarena.cms/admin/cms/block/",
+      "can_arrival_directly": true
+    },
+    "7eb9f766a1e5bcf383a2629e0bd7f9f7": {
+      "node_id": "7eb9f766a1e5bcf383a2629e0bd7f9f7",
+      "screen_path": "explore_screenshot_1-4-4.png",
+      "url": "http://webarena.cms/admin/media_gallery/media/index/",
+      "can_arrival_directly": true
+    },
+    "d42a0c29311d5db2902720f2e3eab3c9": {
+      "node_id": "d42a0c29311d5db2902720f2e3eab3c9",
+      "screen_path": "explore_screenshot_1-4-5.png",
+      "url": "http://webarena.cms/admin/cms/page/",
+      "can_arrival_directly": true
+    },
+    "e525e18c50ba241bbc7d44b5cc1084f7": {
+      "node_id": "e525e18c50ba241bbc7d44b5cc1084f7",
+      "screen_path": "explore_screenshot_1-4-6.png",
+      "url": "http://webarena.cms/admin/pagebuilder/template/",
+      "can_arrival_directly": true
+    },
+    "4f0209ac2c6c7ffcbf8d2c5d56cf41e5": {
+      "node_id": "4f0209ac2c6c7ffcbf8d2c5d56cf41e5",
+      "screen_path": "explore_screenshot_1-4-7.png",
+      "url": "http://webarena.cms/admin/admin/system_design/",
+      "can_arrival_directly": false
+    },
+    "1a000a4abea0d66b8f58fedb1961db07": {
+      "node_id": "1a000a4abea0d66b8f58fedb1961db07",
+      "screen_path": "explore_screenshot_1-4-8.png",
+      "url": "http://webarena.cms/admin/theme/design_config/",
+      "can_arrival_directly": true
+    },
+    "fe9fd87deadb4f54b03343d4a05c0176": {
+      "node_id": "fe9fd87deadb4f54b03343d4a05c0176",
+      "screen_path": "explore_screenshot_1-5-0.png",
+      "url": "http://webarena.cms/admin/reports/report_sales/sales/",
+      "can_arrival_directly": false
+    },
+    "737373e025db59c85d8631019dfbb7d0": {
+      "node_id": "737373e025db59c85d8631019dfbb7d0",
+      "screen_path": "explore_screenshot_1-5-1.png",
+      "url": "http://webarena.cms/admin/reports/report_review/product/",
+      "can_arrival_directly": false
+    },
+    "699c886fefe51f272ddfe4c63363a581": {
+      "node_id": "699c886fefe51f272ddfe4c63363a581",
+      "screen_path": "explore_screenshot_1-5-2.png",
+      "url": "http://webarena.cms/admin/braintree/report/",
+      "can_arrival_directly": true
+    },
+    "8198e5815917b57c0bbf228b254a784e": {
+      "node_id": "8198e5815917b57c0bbf228b254a784e",
+      "screen_path": "explore_screenshot_1-5-3.png",
+      "url": "http://webarena.cms/admin/reports/report_product/sold/",
+      "can_arrival_directly": false
+    },
+    "55d8dcea2878904d969c0920d80a76b2": {
+      "node_id": "55d8dcea2878904d969c0920d80a76b2",
+      "screen_path": "explore_screenshot_1-5-4.png",
+      "url": "http://webarena.cms/admin/reports/report_shopcart/product/",
+      "can_arrival_directly": false
+    },
+    "93af5b0276de37a0f4ea08265ee1d301": {
+      "node_id": "93af5b0276de37a0f4ea08265ee1d301",
+      "screen_path": "explore_screenshot_1-5-5.png",
+      "url": "http://webarena.cms/admin/reports/report_shopcart/abandoned/",
+      "can_arrival_directly": false
+    },
+    "c7078ba02279525ede29cb3a9c1fcebd": {
+      "node_id": "c7078ba02279525ede29cb3a9c1fcebd",
+      "screen_path": "explore_screenshot_1-5-6.png",
+      "url": "http://webarena.cms/admin/reports/report_product/viewed/",
+      "can_arrival_directly": false
+    },
+    "413b26234ab9675dd1573ed7e0c5492d": {
+      "node_id": "413b26234ab9675dd1573ed7e0c5492d",
+      "screen_path": "explore_screenshot_1-5-7.png",
+      "url": "http://webarena.cms/admin/reports/report_sales/shipping/",
+      "can_arrival_directly": false
+    },
+    "5b8063b0eba2d5f3b8156a6cd51a8395": {
+      "node_id": "5b8063b0eba2d5f3b8156a6cd51a8395",
+      "screen_path": "explore_screenshot_1-5-8.png",
+      "url": "http://webarena.cms/admin/reports/report_statistics/",
+      "can_arrival_directly": false
+    },
+    "b073116fbaa8b332bdc7e3ad3eca2586": {
+      "node_id": "b073116fbaa8b332bdc7e3ad3eca2586",
+      "screen_path": "explore_screenshot_1-5-9.png",
+      "url": "http://webarena.cms/admin/reports/report_sales/tax/",
+      "can_arrival_directly": false
+    },
+    "f4a4cd4b4abc7a2a30f18aaf0d9bffdd": {
+      "node_id": "f4a4cd4b4abc7a2a30f18aaf0d9bffdd",
+      "screen_path": "explore_screenshot_1-5-10.png",
+      "url": "http://webarena.cms/admin/reports/report_review/customer/",
+      "can_arrival_directly": false
+    },
+    "8c3b2f26c8af37c66617aab7ac8d402c": {
+      "node_id": "8c3b2f26c8af37c66617aab7ac8d402c",
+      "screen_path": "explore_screenshot_1-5-11.png",
+      "url": "http://webarena.cms/admin/paypal/paypal_reports/",
+      "can_arrival_directly": false
+    },
+    "dbb2ce2f7b0ac04dca6b9254fc8d0f55": {
+      "node_id": "dbb2ce2f7b0ac04dca6b9254fc8d0f55",
+      "screen_path": "explore_screenshot_1-5-12.png",
+      "url": "http://webarena.cms/admin/search/term/report/",
+      "can_arrival_directly": false
+    },
+    "8688eae4f98e0b2a4fba39363e1b1ebc": {
+      "node_id": "8688eae4f98e0b2a4fba39363e1b1ebc",
+      "screen_path": "explore_screenshot_1-5-13.png",
+      "url": "http://webarena.cms/admin/newsletter/problem/",
+      "can_arrival_directly": false
+    },
+    "2f3aba8ca712d9cb74f028101b32f435": {
+      "node_id": "2f3aba8ca712d9cb74f028101b32f435",
+      "screen_path": "explore_screenshot_1-5-14.png",
+      "url": "http://webarena.cms/admin/reports/report_sales/coupons/",
+      "can_arrival_directly": false
+    },
+    "56ed746ee2ce87c697694db992ed32e2": {
+      "node_id": "56ed746ee2ce87c697694db992ed32e2",
+      "screen_path": "explore_screenshot_1-5-15.png",
+      "url": "http://webarena.cms/admin/reports/report_sales/bestsellers/",
+      "can_arrival_directly": false
+    },
+    "755ae4652e34cf580f617049726a9e90": {
+      "node_id": "755ae4652e34cf580f617049726a9e90",
+      "screen_path": "explore_screenshot_1-5-16.png",
+      "url": "http://webarena.cms/admin/reports/report_customer/orders/",
+      "can_arrival_directly": false
+    },
+    "5f6f008825da250ce1e165b10c7c57a9": {
+      "node_id": "5f6f008825da250ce1e165b10c7c57a9",
+      "screen_path": "explore_screenshot_1-5-17.png",
+      "url": "http://webarena.cms/admin/reports/report_sales/refunded/",
+      "can_arrival_directly": false
+    },
+    "8c9acd7a22b65f9c19456dd325ab7cd2": {
+      "node_id": "8c9acd7a22b65f9c19456dd325ab7cd2",
+      "screen_path": "explore_screenshot_1-5-18.png",
+      "url": "http://webarena.cms/admin/reports/report_sales/invoiced/",
+      "can_arrival_directly": false
+    },
+    "404860518cad80f9db4ba01ec2d3a47b": {
+      "node_id": "404860518cad80f9db4ba01ec2d3a47b",
+      "screen_path": "explore_screenshot_1-5-19.png",
+      "url": "http://webarena.cms/admin/admin/dashboard/",
+      "can_arrival_directly": false
+    },
+    "93d56b2e8e459db3aa7f9e1d48169049": {
+      "node_id": "93d56b2e8e459db3aa7f9e1d48169049",
+      "screen_path": "explore_screenshot_1-5-20.png",
+      "url": "http://webarena.cms/admin/reports/report_customer/accounts/",
+      "can_arrival_directly": false
+    },
+    "3b4e1ced6dc613ced8b30c7e33717ce7": {
+      "node_id": "3b4e1ced6dc613ced8b30c7e33717ce7",
+      "screen_path": "explore_screenshot_1-5-21.png",
+      "url": "http://webarena.cms/admin/reports/report_product/downloads/",
+      "can_arrival_directly": false
+    },
+    "88c2b26b8f79ba5ce13484f67d31c8a5": {
+      "node_id": "88c2b26b8f79ba5ce13484f67d31c8a5",
+      "screen_path": "explore_screenshot_1-5-22.png",
+      "url": "http://webarena.cms/admin/reports/report_customer/totals/",
+      "can_arrival_directly": false
+    },
+    "841754e28290e2270d804c04c7aa1e13": {
+      "node_id": "841754e28290e2270d804c04c7aa1e13",
+      "screen_path": "explore_screenshot_1-5-23.png",
+      "url": "http://webarena.cms/admin/reports/report_product/lowstock/",
+      "can_arrival_directly": false
+    },
+    "6e2de4e4ede8558e37d6ac3226ac751d": {
+      "node_id": "6e2de4e4ede8558e37d6ac3226ac751d",
+      "screen_path": "explore_screenshot_1-6-0.png",
+      "url": "http://webarena.cms/admin/admin/system_currency/",
+      "can_arrival_directly": false
+    },
+    "655b01f0d24a2a996871900ba51a16fd": {
+      "node_id": "655b01f0d24a2a996871900ba51a16fd",
+      "screen_path": "explore_screenshot_1-6-1.png",
+      "url": "http://webarena.cms/admin/checkout/agreement/",
+      "can_arrival_directly": false
+    },
+    "d77a23c868200467bec4e1c278477be3": {
+      "node_id": "d77a23c868200467bec4e1c278477be3",
+      "screen_path": "explore_screenshot_1-6-2.png",
+      "url": "http://webarena.cms/admin/admin/system_currencysymbol/",
+      "can_arrival_directly": false
+    },
+    "277ccacddb4b7072185a6f01575141d1": {
+      "node_id": "277ccacddb4b7072185a6f01575141d1",
+      "screen_path": "explore_screenshot_1-6-3.png",
+      "url": "http://webarena.cms/admin/inventory/stock/index/",
+      "can_arrival_directly": true
+    },
+    "f66183b8ddee3510dc0152c43f994106": {
+      "node_id": "f66183b8ddee3510dc0152c43f994106",
+      "screen_path": "explore_screenshot_1-6-4.png",
+      "url": "http://webarena.cms/admin/tax/rate/",
+      "can_arrival_directly": false
+    },
+    "22d5ce2afdd5a1e9fe1f3b45ffe0fc02": {
+      "node_id": "22d5ce2afdd5a1e9fe1f3b45ffe0fc02",
+      "screen_path": "explore_screenshot_1-6-5.png",
+      "url": "http://webarena.cms/admin/catalog/product_attribute/",
+      "can_arrival_directly": false
+    },
+    "41f12947a7364d03f5522c01f6e05104": {
+      "node_id": "41f12947a7364d03f5522c01f6e05104",
+      "screen_path": "explore_screenshot_1-6-6.png",
+      "url": "http://webarena.cms/admin/admin/system_config/",
+      "can_arrival_directly": true
+    },
+    "924b0b4d8d4ad096d7ec44219f19db59": {
+      "node_id": "924b0b4d8d4ad096d7ec44219f19db59",
+      "screen_path": "explore_screenshot_1-6-7.png",
+      "url": "http://webarena.cms/admin/tax/rule/",
+      "can_arrival_directly": false
+    },
+    "889b7aef40c86017d3f613ad8a59e1d1": {
+      "node_id": "889b7aef40c86017d3f613ad8a59e1d1",
+      "screen_path": "explore_screenshot_1-6-8.png",
+      "url": "http://webarena.cms/admin/inventory/source/index/",
+      "can_arrival_directly": true
+    },
+    "2967cdfb16a9143d6974ff900a4070cd": {
+      "node_id": "2967cdfb16a9143d6974ff900a4070cd",
+      "screen_path": "explore_screenshot_1-6-9.png",
+      "url": "http://webarena.cms/admin/review/rating/",
+      "can_arrival_directly": false
+    },
+    "7be6081107106ef5eef68bc0423910e1": {
+      "node_id": "7be6081107106ef5eef68bc0423910e1",
+      "screen_path": "explore_screenshot_1-6-10.png",
+      "url": "http://webarena.cms/admin/admin/dashboard/",
+      "can_arrival_directly": false
+    },
+    "1313d9697f72664f4e49eeb9a4158394": {
+      "node_id": "1313d9697f72664f4e49eeb9a4158394",
+      "screen_path": "explore_screenshot_1-6-11.png",
+      "url": "http://webarena.cms/admin/sales/order_status/",
+      "can_arrival_directly": false
+    },
+    "5c0bca3b4f59764de44fcd774caf0d88": {
+      "node_id": "5c0bca3b4f59764de44fcd774caf0d88",
+      "screen_path": "explore_screenshot_1-6-12.png",
+      "url": "http://webarena.cms/admin/catalog/product_set/",
+      "can_arrival_directly": false
+    },
+    "87d33dce2e6572d34a731c3c902f56c5": {
+      "node_id": "87d33dce2e6572d34a731c3c902f56c5",
+      "screen_path": "explore_screenshot_1-6-13.png",
+      "url": "http://webarena.cms/admin/admin/system_store/",
+      "can_arrival_directly": false
+    },
+    "b68da346508226a54e0b185ef41bb60b": {
+      "node_id": "b68da346508226a54e0b185ef41bb60b",
+      "screen_path": "explore_screenshot_1-7-0.png",
+      "url": "http://webarena.cms/admin/admin/cache/",
+      "can_arrival_directly": false
+    },
+    "b0169bfd8f2504700416405a309606b3": {
+      "node_id": "b0169bfd8f2504700416405a309606b3",
+      "screen_path": "explore_screenshot_1-7-1.png",
+      "url": "http://webarena.cms/admin/admin/dashboard/",
+      "can_arrival_directly": false
+    },
+    "6c9a32dd4a91ff321659039e76331eaa": {
+      "node_id": "6c9a32dd4a91ff321659039e76331eaa",
+      "screen_path": "explore_screenshot_1-7-2.png",
+      "url": "http://webarena.cms/admin/tax/rate/importExport/",
+      "can_arrival_directly": false
+    },
+    "5c3e86addd1a7bae8708447644efa323": {
+      "node_id": "5c3e86addd1a7bae8708447644efa323",
+      "screen_path": "explore_screenshot_1-7-3.png",
+      "url": "http://webarena.cms/admin/admin/integration/",
+      "can_arrival_directly": false
+    },
+    "c02ffbd615042d515045278f6604889f": {
+      "node_id": "c02ffbd615042d515045278f6604889f",
+      "screen_path": "explore_screenshot_1-7-4.png",
+      "url": "http://webarena.cms/admin/admin/system_variable/",
+      "can_arrival_directly": false
+    },
+    "1721c9053b61655ef1f4b1194327be97": {
+      "node_id": "1721c9053b61655ef1f4b1194327be97",
+      "screen_path": "explore_screenshot_1-7-5.png",
+      "url": "http://webarena.cms/admin/admin/user_role/",
+      "can_arrival_directly": false
+    },
+    "df7ef9f4360f8b11c3ed915f5394179b": {
+      "node_id": "df7ef9f4360f8b11c3ed915f5394179b",
+      "screen_path": "explore_screenshot_1-7-6.png",
+      "url": "http://webarena.cms/admin/admin/user/",
+      "can_arrival_directly": false
+    },
+    "b7fa7dc0370df785db1842847b00727d": {
+      "node_id": "b7fa7dc0370df785db1842847b00727d",
+      "screen_path": "explore_screenshot_1-7-7.png",
+      "url": "http://webarena.cms/admin/admin/locks/",
+      "can_arrival_directly": false
+    },
+    "60d2683539fa94cb1add5c6f6ab17506": {
+      "node_id": "60d2683539fa94cb1add5c6f6ab17506",
+      "screen_path": "explore_screenshot_1-7-8.png",
+      "url": "http://webarena.cms/admin/indexer/indexer/list/",
+      "can_arrival_directly": false
+    },
+    "99c1d8cc5ebfdc3155a4178e31c4cb17": {
+      "node_id": "99c1d8cc5ebfdc3155a4178e31c4cb17",
+      "screen_path": "explore_screenshot_1-7-9.png",
+      "url": "http://webarena.cms/admin/admin/export/",
+      "can_arrival_directly": false
+    },
+    "f08ba9a14b2c30a79a4b447e0e314947": {
+      "node_id": "f08ba9a14b2c30a79a4b447e0e314947",
+      "screen_path": "explore_screenshot_1-7-10.png",
+      "url": "http://webarena.cms/admin/admin/notification/",
+      "can_arrival_directly": false
+    },
+    "4a090f9137f36f7de323e89417cf6bd1": {
+      "node_id": "4a090f9137f36f7de323e89417cf6bd1",
+      "screen_path": "explore_screenshot_1-7-11.png",
+      "url": "http://webarena.cms/admin/bulk/index/",
+      "can_arrival_directly": true
+    },
+    "3320498bc5daa4b45723eed44d4f72b5": {
+      "node_id": "3320498bc5daa4b45723eed44d4f72b5",
+      "screen_path": "explore_screenshot_1-7-12.png",
+      "url": "http://webarena.cms/admin/admin/import/",
+      "can_arrival_directly": false
+    },
+    "e04fd6c3683e5a86e92b359c915434fa": {
+      "node_id": "e04fd6c3683e5a86e92b359c915434fa",
+      "screen_path": "explore_screenshot_1-7-13.png",
+      "url": "http://webarena.cms/admin/admin/history/",
+      "can_arrival_directly": false
+    },
+    "53a02ce05c93a89579c2d9d748409182": {
+      "node_id": "53a02ce05c93a89579c2d9d748409182",
+      "screen_path": "explore_screenshot_1-7-14.png",
+      "url": "http://webarena.cms/admin/admin/crypt_key/",
+      "can_arrival_directly": false
+    },
+    "5efe9bc61d2b7d7f7d1447d7bdbd81f4": {
+      "node_id": "5efe9bc61d2b7d7f7d1447d7bdbd81f4",
+      "screen_path": "explore_screenshot_1-9-1.png",
+      "url": "http://webarena.cms/admin/admin/system_account/index/",
+      "can_arrival_directly": false
+    },
+    "a286ef02dd6b590462aa3d251aec4e75": {
+      "node_id": "a286ef02dd6b590462aa3d251aec4e75",
+      "screen_path": "explore_screenshot_1-10-1.png",
+      "url": "http://webarena.cms/admin/admin/notification/index/",
+      "can_arrival_directly": false
+    },
+    "d1d264ffcc2971b99e94a36152b1cb89": {
+      "node_id": "d1d264ffcc2971b99e94a36152b1cb89",
+      "screen_path": "explore_screenshot_1-10-2.png",
+      "url": "http://webarena.cms/admin/admin/notification/index/",
+      "can_arrival_directly": false
+    },
+    "2f5ec0522fcbfd9021ca382e040f4f64": {
+      "node_id": "2f5ec0522fcbfd9021ca382e040f4f64",
+      "screen_path": "explore_screenshot_1-12-0.png",
+      "url": "http://webarena.cms/admin/admin/system_config/edit/section/dev/",
+      "can_arrival_directly": false
+    },
+    "d5f3a9c8a61357d1b4034d7d83307b1d": {
+      "node_id": "d5f3a9c8a61357d1b4034d7d83307b1d",
+      "screen_path": "explore_screenshot_1-12-1.png",
+      "url": "http://webarena.cms/admin/admin/system_config/edit/section/admin/#admin_dashboard-link",
+      "can_arrival_directly": false
+    },
+    "e812e43dc18a486d055e6df39cee9891": {
+      "node_id": "e812e43dc18a486d055e6df39cee9891",
+      "screen_path": "explore_screenshot_1-12-2.png",
+      "url": "http://webarena.cms/admin/admin/system_config/edit/section/admin/",
+      "can_arrival_directly": false
+    },
+    "3f289a192ba2827f70605850fc498332": {
+      "node_id": "3f289a192ba2827f70605850fc498332",
+      "screen_path": "explore_screenshot_1-12-3.png",
+      "url": "http://webarena.cms/admin/admin/system_config/edit/section/admin/#admin_dashboard-link",
+      "can_arrival_directly": false
+    },
+    "ed4c247b18e399de301794ca9c086d2b": {
+      "node_id": "ed4c247b18e399de301794ca9c086d2b",
+      "screen_path": "explore_screenshot_1-12-4.png",
+      "url": "http://webarena.cms/admin/admin/system_config/edit/section/admin/#admin_dashboard-link",
+      "can_arrival_directly": false
+    },
+    "67e065320ff93169c787b04db720429b": {
+      "node_id": "67e065320ff93169c787b04db720429b",
+      "screen_path": "explore_screenshot_1-12-5.png",
+      "url": "http://webarena.cms/admin/admin/system_config/edit/section/admin/#admin_dashboard-link",
+      "can_arrival_directly": false
+    },
+    "59600e090e341f6b655b4195a3674859": {
+      "node_id": "59600e090e341f6b655b4195a3674859",
+      "screen_path": "explore_screenshot_1-12-6.png",
+      "url": "http://webarena.cms/admin/admin/system_config/edit/section/admin/#admin_dashboard-link",
+      "can_arrival_directly": false
+    },
+    "ac371a187bdfc2e7de2e5640257f322b": {
+      "node_id": "ac371a187bdfc2e7de2e5640257f322b",
+      "screen_path": "explore_screenshot_1-12-7.png",
+      "url": "http://webarena.cms/admin/admin/system_config/edit/section/system/",
+      "can_arrival_directly": false
+    },
+    "1f7ce5c43de456461aefe2d1c64ef8e9": {
+      "node_id": "1f7ce5c43de456461aefe2d1c64ef8e9",
+      "screen_path": "explore_screenshot_1-12-8.png",
+      "url": "http://webarena.cms/admin/admin/system_config/edit/section/admin/#admin_dashboard-link",
+      "can_arrival_directly": false
+    },
+    "8aa60caecc9c46085896ad2b792c0d35": {
+      "node_id": "8aa60caecc9c46085896ad2b792c0d35",
+      "screen_path": "explore_screenshot_1-12-9.png",
+      "url": "http://webarena.cms/admin/admin/system_config/edit/section/admin/#admin_dashboard-link",
+      "can_arrival_directly": false
+    },
+    "0af12087581ee19f2aed1eb619c9ecb3": {
+      "node_id": "0af12087581ee19f2aed1eb619c9ecb3",
+      "screen_path": "explore_screenshot_1-12-10.png",
+      "url": "http://webarena.cms/admin/admin/system_config/edit/section/admin/#admin_dashboard-link",
+      "can_arrival_directly": false
+    }
+  },
+  "edges": [
+    {
+      "from_node_id": "48d703426d0ed7af2ff28a9e4b4c410b",
+      "to_node_id": "743cfc507f2cca27b9aeb397cae82d1e",
+      "action": {
+        "action_id": "de39c969c97772a571a98c1581397d91",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:5bb62f269fb3a76574e700f05cf8599c",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": " SALES",
+              "xpath": "/html/body/div[1]/nav/ul/li[2]/a",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "#",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "href": "#",
+                "onclick": "return false;",
+                "class": ""
+              },
+              "structure_hash": "5bb62f269fb3a76574e700f05cf8599c",
+              "content_hash": "9c99ea11a7b78853b2a3838fd1a31c92"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "48d703426d0ed7af2ff28a9e4b4c410b",
+      "to_node_id": "238f6f5220a04b448baf892b1bdd43cf",
+      "action": {
+        "action_id": "358d8a4361a0597deaab6efed0f11c8c",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:ec201267bc6805d34b99020b7362a4a6",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": " CATALOG",
+              "xpath": "/html/body/div[1]/nav/ul/li[3]/a",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "#",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "href": "#",
+                "onclick": "return false;",
+                "class": ""
+              },
+              "structure_hash": "ec201267bc6805d34b99020b7362a4a6",
+              "content_hash": "9c99ea11a7b78853b2a3838fd1a31c92"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "48d703426d0ed7af2ff28a9e4b4c410b",
+      "to_node_id": "f8598aca71abe6ba5f4b8770aba3d8d9",
+      "action": {
+        "action_id": "9d2eb764c9b891695256fc27969ea02e",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:ccd86cff8294e59254de361a3e7412c0",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": " CUSTOMERS",
+              "xpath": "/html/body/div[1]/nav/ul/li[4]/a",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "#",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "href": "#",
+                "onclick": "return false;",
+                "class": ""
+              },
+              "structure_hash": "ccd86cff8294e59254de361a3e7412c0",
+              "content_hash": "9c99ea11a7b78853b2a3838fd1a31c92"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "48d703426d0ed7af2ff28a9e4b4c410b",
+      "to_node_id": "7c1a3669098a373d8835c369e02a48ea",
+      "action": {
+        "action_id": "2bc45bac1f8387c30cdf24f56be0742c",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:c0f21159d316ae8527419a5fdb56108f",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": " MARKETING",
+              "xpath": "/html/body/div[1]/nav/ul/li[5]/a",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "#",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "href": "#",
+                "onclick": "return false;",
+                "class": ""
+              },
+              "structure_hash": "c0f21159d316ae8527419a5fdb56108f",
+              "content_hash": "9c99ea11a7b78853b2a3838fd1a31c92"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "48d703426d0ed7af2ff28a9e4b4c410b",
+      "to_node_id": "bcf4553ea43753a4c5ee35a029f2e4ac",
+      "action": {
+        "action_id": "c3adbb242a64996c3a27d9dd8460b5c5",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:fd1fa28938114153fca61f125be6d68d",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": " CONTENT",
+              "xpath": "/html/body/div[1]/nav/ul/li[6]/a",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "#",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "href": "#",
+                "onclick": "return false;",
+                "class": ""
+              },
+              "structure_hash": "fd1fa28938114153fca61f125be6d68d",
+              "content_hash": "9c99ea11a7b78853b2a3838fd1a31c92"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "48d703426d0ed7af2ff28a9e4b4c410b",
+      "to_node_id": "98e4a517bc9b65b71f2ea998ff398aca",
+      "action": {
+        "action_id": "067ef6e1b94c7f682eceacfa614ffdfe",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:1addc37582912a7ae720a4ee60d70d8a",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": " REPORTS",
+              "xpath": "/html/body/div[1]/nav/ul/li[7]/a",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "#",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "href": "#",
+                "onclick": "return false;",
+                "class": ""
+              },
+              "structure_hash": "1addc37582912a7ae720a4ee60d70d8a",
+              "content_hash": "9c99ea11a7b78853b2a3838fd1a31c92"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "48d703426d0ed7af2ff28a9e4b4c410b",
+      "to_node_id": "fd606c6af41cd156c99ef0a5e6918faa",
+      "action": {
+        "action_id": "dcad94cd5c0b1a92f73541ed2b02b366",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:b152d9f3e99678e20285cb993392457e",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": " STORES",
+              "xpath": "/html/body/div[1]/nav/ul/li[8]/a",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "#",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "href": "#",
+                "onclick": "return false;",
+                "class": ""
+              },
+              "structure_hash": "b152d9f3e99678e20285cb993392457e",
+              "content_hash": "9c99ea11a7b78853b2a3838fd1a31c92"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "48d703426d0ed7af2ff28a9e4b4c410b",
+      "to_node_id": "19556024e4a48a616b13c7dbf4db302c",
+      "action": {
+        "action_id": "ecc96c763951b577f0a51be4fa0ddb85",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:ae2c1d612d9599442a60186e03a46438",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": " SYSTEM",
+              "xpath": "/html/body/div[1]/nav/ul/li[9]/a",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "#",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "href": "#",
+                "onclick": "return false;",
+                "class": ""
+              },
+              "structure_hash": "ae2c1d612d9599442a60186e03a46438",
+              "content_hash": "9c99ea11a7b78853b2a3838fd1a31c92"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "48d703426d0ed7af2ff28a9e4b4c410b",
+      "to_node_id": "3c91bef94548630bc4b6f095cf564b3b",
+      "action": {
+        "action_id": "69d87172546ba302ba223c7eff851fb9",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:b39d661523683ca52b35a7d57342ce8f",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": " FIND PARTNERS & EXTENSIONS",
+              "xpath": "/html/body/div[1]/nav/ul/li[10]/a",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "http://webarena.cms/admin/marketplace/index/",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "href": "http://webarena.cms/admin/marketplace/index/",
+                "class": ""
+              },
+              "structure_hash": "b39d661523683ca52b35a7d57342ce8f",
+              "content_hash": "614f89f97f3ab4b460478fa794d95b85"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "48d703426d0ed7af2ff28a9e4b4c410b",
+      "to_node_id": "e8fa264ab56314a6ccfe26d81c90c954",
+      "action": {
+        "action_id": "f664e1b72c5704fc69be62e576729e31",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:39575e63be5c038c1894e4f2078b5aae",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": " admin",
+              "xpath": "/html/body/div[2]/header/div[2]/div[1]/a",
+              "text_content": "",
+              "description": "My Account",
+              "placeholder": null,
+              "href": "http://webarena.cms/admin/admin/system_account/index/",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "href": "http://webarena.cms/admin/admin/system_account/index/",
+                "class": "admin__action-dropdown",
+                "title": "My Account",
+                "data-toggle": "dropdown"
+              },
+              "structure_hash": "39575e63be5c038c1894e4f2078b5aae",
+              "content_hash": "1f1bb9cc94dd6114b27229cc0660ac81"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "48d703426d0ed7af2ff28a9e4b4c410b",
+      "to_node_id": "95046b151286880f243340f48c9ada06",
+      "action": {
+        "action_id": "8e182a031a05d7edfc22f73806fadb5f",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:09e4a7f5472ed649711093817582e628",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "",
+              "xpath": "/html/body/div[2]/header/div[2]/div[2]/a",
+              "text_content": "",
+              "description": "Notifications",
+              "placeholder": null,
+              "href": "http://webarena.cms/admin/admin/notification/index/",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "class": "notifications-action admin__action-dropdown",
+                "href": "http://webarena.cms/admin/admin/notification/index/",
+                "title": "Notifications"
+              },
+              "structure_hash": "09e4a7f5472ed649711093817582e628",
+              "content_hash": "f0d0f072aa6e4653331bf87801a617a9"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "48d703426d0ed7af2ff28a9e4b4c410b",
+      "to_node_id": "50e1b9b4bde3fe769e587ab3b5dd87bf",
+      "action": {
+        "action_id": "d835daa74b440712df2230e4216ca235",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:2281801bdeec3432ee5b6ba9a389b88d",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "Retry Synchronization",
+              "xpath": "/html/body/div[2]/div[1]/div/div[2]/div/div[1]/div/div[2]/a",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "http://webarena.cms/admin/analytics/subscription/retry/",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "href": "http://webarena.cms/admin/analytics/subscription/retry/"
+              },
+              "structure_hash": "2281801bdeec3432ee5b6ba9a389b88d",
+              "content_hash": "4240bbd6a61849d378fd1bcc534e97a2"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "48d703426d0ed7af2ff28a9e4b4c410b",
+      "to_node_id": "490dd1bf711dbf438743b8c424c7eb8e",
+      "action": {
+        "action_id": "1355383dfbe3c8712a4fcb2237512d7f",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:8f8a23053584d47a43fe379c37e3f8fc",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "here",
+              "xpath": "/html/body/div[2]/main/div[2]/div/div/div/div[1]/div[1]/div[1]/a",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "http://webarena.cms/admin/admin/system_config/edit/section/admin/#admin_dashboard-link",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "href": "http://webarena.cms/admin/admin/system_config/edit/section/admin/#admin_dashboard-link"
+              },
+              "structure_hash": "8f8a23053584d47a43fe379c37e3f8fc",
+              "content_hash": "e7bd057e1aab17dedbf0757617e0a223"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "48d703426d0ed7af2ff28a9e4b4c410b",
+      "to_node_id": "743fc4f45487b7d0abd19e8af0510766",
+      "action": {
+        "action_id": "f4e0b6a5af788fe939ed07a724b574a5",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:655627728528a8ee43f451dbef54935d",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "The information in this tab has been changed. This tab contains invalid data. Please resolve this before saving. Loading... Most Viewed Products",
+              "xpath": "//*[@id=\"grid_tab_reviewed_products\"]",
+              "text_content": "",
+              "description": "Most Viewed Products",
+              "placeholder": null,
+              "href": "http://webarena.cms/admin/admin/dashboard/productsViewed/",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "href": "http://webarena.cms/admin/admin/dashboard/productsViewed/",
+                "id": "grid_tab_reviewed_products",
+                "title": "Most Viewed Products",
+                "class": "tab-item-link ajax notloaded ui-tabs-anchor",
+                "data-tab-type": "",
+                "role": "presentation",
+                "tabindex": "-1"
+              },
+              "structure_hash": "655627728528a8ee43f451dbef54935d",
+              "content_hash": "7c3ceb6bd2b2c22f6bbd35be6a36e765"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "48d703426d0ed7af2ff28a9e4b4c410b",
+      "to_node_id": "f559c561af99a2fd29bb2a7994f6b890",
+      "action": {
+        "action_id": "4ed5e8e6746673e4d07488326046317b",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:f63b257c3d6ea20dfd5d9972d7900e00",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "The information in this tab has been changed. This tab contains invalid data. Please resolve this before saving. Loading... New Customers",
+              "xpath": "//*[@id=\"grid_tab_new_customers\"]",
+              "text_content": "",
+              "description": "New Customers",
+              "placeholder": null,
+              "href": "http://webarena.cms/admin/admin/dashboard/customersNewest/",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "href": "http://webarena.cms/admin/admin/dashboard/customersNewest/",
+                "id": "grid_tab_new_customers",
+                "title": "New Customers",
+                "class": "tab-item-link ajax notloaded ui-tabs-anchor",
+                "data-tab-type": "",
+                "role": "presentation",
+                "tabindex": "-1"
+              },
+              "structure_hash": "f63b257c3d6ea20dfd5d9972d7900e00",
+              "content_hash": "6c19c06dd521e22e7e6d3590a40c439e"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "48d703426d0ed7af2ff28a9e4b4c410b",
+      "to_node_id": "7b8ab9476bef4a9272b4a6caae28c54e",
+      "action": {
+        "action_id": "c1d3657b42e9775cff3022cec0778f69",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:812557f652730a325be29949fc627886",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "The information in this tab has been changed. This tab contains invalid data. Please resolve this before saving. Loading... Customers",
+              "xpath": "//*[@id=\"grid_tab_customers\"]",
+              "text_content": "",
+              "description": "Customers",
+              "placeholder": null,
+              "href": "http://webarena.cms/admin/admin/dashboard/customersMost/",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "href": "http://webarena.cms/admin/admin/dashboard/customersMost/",
+                "id": "grid_tab_customers",
+                "title": "Customers",
+                "class": "tab-item-link ajax notloaded ui-tabs-anchor",
+                "data-tab-type": "",
+                "role": "presentation",
+                "tabindex": "-1"
+              },
+              "structure_hash": "812557f652730a325be29949fc627886",
+              "content_hash": "f7da2d7d1e14af15a972ef2ad9eb686c"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "743cfc507f2cca27b9aeb397cae82d1e",
+      "to_node_id": "5815b3a4ae3dd95c6204a992dba2fa4b",
+      "action": {
+        "action_id": "72ce0a8cc65c313d12eca3391c03eef9",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:f720be3ebe86464b126814a42cdc13bf",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "",
+              "xpath": "/html/body/div[1]/nav/ul/li[2]/div/a",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "#",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "href": "#",
+                "class": "action-close _close",
+                "data-role": "close-submenu"
+              },
+              "structure_hash": "f720be3ebe86464b126814a42cdc13bf",
+              "content_hash": "9c99ea11a7b78853b2a3838fd1a31c92"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "743cfc507f2cca27b9aeb397cae82d1e",
+      "to_node_id": "bdd4ab8609b4231a4c21eac55999e301",
+      "action": {
+        "action_id": "fefe7e2db4992224aee33492daa29aeb",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:27de54fe81e1ea4d9a58795b18b4f5ba",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "Braintree Virtual Terminal",
+              "xpath": "/html/body/div[1]/nav/ul/li[2]/div/ul/li/div/ul/li[7]/a",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "http://webarena.cms/admin/braintree/virtual/",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "href": "http://webarena.cms/admin/braintree/virtual/",
+                "class": ""
+              },
+              "structure_hash": "27de54fe81e1ea4d9a58795b18b4f5ba",
+              "content_hash": "04d3d0347aa5605f14c4827532ca6d58"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "743cfc507f2cca27b9aeb397cae82d1e",
+      "to_node_id": "800d655f2e3ab89bb80fdebeb22fe6c5",
+      "action": {
+        "action_id": "7bb196341421c60fbcb0109d192d3e29",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:c49c721c939cf6622aff7ce15e9383bf",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "Credit Memos",
+              "xpath": "/html/body/div[1]/nav/ul/li[2]/div/ul/li/div/ul/li[4]/a",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "http://webarena.cms/admin/sales/creditmemo/",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "href": "http://webarena.cms/admin/sales/creditmemo/",
+                "class": ""
+              },
+              "structure_hash": "c49c721c939cf6622aff7ce15e9383bf",
+              "content_hash": "0103e69f29d894527149a476a9586f97"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "743cfc507f2cca27b9aeb397cae82d1e",
+      "to_node_id": "7a89346f93e214ee20556ad6735ffd09",
+      "action": {
+        "action_id": "d5567bcd86bd083974f4f47fea12dd0e",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:1a3a8bc579c9059837b01ebe84458db9",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "Billing Agreements",
+              "xpath": "/html/body/div[1]/nav/ul/li[2]/div/ul/li/div/ul/li[5]/a",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "http://webarena.cms/admin/paypal/billing_agreement/",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "href": "http://webarena.cms/admin/paypal/billing_agreement/",
+                "class": ""
+              },
+              "structure_hash": "1a3a8bc579c9059837b01ebe84458db9",
+              "content_hash": "217121b13eb0531cd05751db932a54b9"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "743cfc507f2cca27b9aeb397cae82d1e",
+      "to_node_id": "c9bb5fd612c0382f5621cb3388dd187d",
+      "action": {
+        "action_id": "99ece4cb3c9ec295a67bc9abc1d1479a",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:13b73768855ef96fbc353a357e109410",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "Invoices",
+              "xpath": "/html/body/div[1]/nav/ul/li[2]/div/ul/li/div/ul/li[2]/a",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "http://webarena.cms/admin/sales/invoice/",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "href": "http://webarena.cms/admin/sales/invoice/",
+                "class": ""
+              },
+              "structure_hash": "13b73768855ef96fbc353a357e109410",
+              "content_hash": "42d614b8353ca9de8d60165c726b96b1"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "743cfc507f2cca27b9aeb397cae82d1e",
+      "to_node_id": "69bcdc2b666156297c60b6b05205c919",
+      "action": {
+        "action_id": "2855f62214e551c66421849b53d48024",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:76ce3dc97dce959db3255bc70924fbe5",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "Shipments",
+              "xpath": "/html/body/div[1]/nav/ul/li[2]/div/ul/li/div/ul/li[3]/a",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "http://webarena.cms/admin/sales/shipment/",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "href": "http://webarena.cms/admin/sales/shipment/",
+                "class": ""
+              },
+              "structure_hash": "76ce3dc97dce959db3255bc70924fbe5",
+              "content_hash": "2c4d6340013997492b297948fec06c1f"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "743cfc507f2cca27b9aeb397cae82d1e",
+      "to_node_id": "5e69c2413e288152a06123ba11904c3e",
+      "action": {
+        "action_id": "ffbffa69a2696559788e2d7627ef1278",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:a1d091aa9830539eb56181780e076ee8",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "Orders",
+              "xpath": "/html/body/div[1]/nav/ul/li[2]/div/ul/li/div/ul/li[1]/a",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "http://webarena.cms/admin/sales/order/",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "href": "http://webarena.cms/admin/sales/order/",
+                "class": ""
+              },
+              "structure_hash": "a1d091aa9830539eb56181780e076ee8",
+              "content_hash": "8433c047eb0eb21d00af3b1c9c4c5d9c"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "743cfc507f2cca27b9aeb397cae82d1e",
+      "to_node_id": "5dfcc8725ac0c363a513abdeeccb167d",
+      "action": {
+        "action_id": "1157b2e543918bc88cddf4bf30084eac",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:403cab7badfd48f845b998c249716ddf",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "Transactions",
+              "xpath": "/html/body/div[1]/nav/ul/li[2]/div/ul/li/div/ul/li[6]/a",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "http://webarena.cms/admin/sales/transactions/",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "href": "http://webarena.cms/admin/sales/transactions/",
+                "class": ""
+              },
+              "structure_hash": "403cab7badfd48f845b998c249716ddf",
+              "content_hash": "806fb6111c8522907c81c9b0443b42b9"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "238f6f5220a04b448baf892b1bdd43cf",
+      "to_node_id": "99f37585af3e3beba9e3b2a3da9874e4",
+      "action": {
+        "action_id": "9c2957edcbcae998e4140908a380b4b0",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:7991dbb4256f7c8927a34389063a6428",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "Products",
+              "xpath": "/html/body/div[1]/nav/ul/li[3]/div/ul/li/div/ul/li[1]/a",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "http://webarena.cms/admin/catalog/product/",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "href": "http://webarena.cms/admin/catalog/product/",
+                "class": ""
+              },
+              "structure_hash": "7991dbb4256f7c8927a34389063a6428",
+              "content_hash": "b852cc9974431e4a014677f23c8e9ec5"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "238f6f5220a04b448baf892b1bdd43cf",
+      "to_node_id": "924045a22201e9cb48d10e3777679132",
+      "action": {
+        "action_id": "b8bf0323769ff605b640ec106d50c3d5",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:a1c9119431acceff0ae64e01cc536cf4",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "Categories",
+              "xpath": "/html/body/div[1]/nav/ul/li[3]/div/ul/li/div/ul/li[2]/a",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "http://webarena.cms/admin/catalog/category/",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "href": "http://webarena.cms/admin/catalog/category/",
+                "class": ""
+              },
+              "structure_hash": "a1c9119431acceff0ae64e01cc536cf4",
+              "content_hash": "c7ce06c9fb5b95764d22d4286236e8ac"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "238f6f5220a04b448baf892b1bdd43cf",
+      "to_node_id": "c668ff0ec96a5c009a6b4e0729c16994",
+      "action": {
+        "action_id": "2b86b319702b266039e20a50ca45c012",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:7f90c0a01dde49351c31ee20677f8c96",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "",
+              "xpath": "/html/body/div[1]/nav/ul/li[3]/div/a",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "#",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "href": "#",
+                "class": "action-close _close",
+                "data-role": "close-submenu"
+              },
+              "structure_hash": "7f90c0a01dde49351c31ee20677f8c96",
+              "content_hash": "9c99ea11a7b78853b2a3838fd1a31c92"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "f8598aca71abe6ba5f4b8770aba3d8d9",
+      "to_node_id": "3f1260ebbc2cce970a673be64c1341b3",
+      "action": {
+        "action_id": "6d019582c314629fcac5840c1ce23f76",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:834aa18fa3d45c0571834d0f333eb93e",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "Login as Customer Log",
+              "xpath": "/html/body/div[1]/nav/ul/li[4]/div/ul/li[3]/a",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "http://webarena.cms/admin/loginascustomer_log/log/index/",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "href": "http://webarena.cms/admin/loginascustomer_log/log/index/",
+                "class": ""
+              },
+              "structure_hash": "834aa18fa3d45c0571834d0f333eb93e",
+              "content_hash": "7e9ca9d8c02beb2e60d81db34d2da38d"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "f8598aca71abe6ba5f4b8770aba3d8d9",
+      "to_node_id": "5853a82b0662e795b7d952a8813fc95c",
+      "action": {
+        "action_id": "c404db6c66870241e13a044452788d8b",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:4dce7a78720d2fb72d490f396e9b55da",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "",
+              "xpath": "/html/body/div[1]/nav/ul/li[4]/div/a",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "#",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "href": "#",
+                "class": "action-close _close",
+                "data-role": "close-submenu"
+              },
+              "structure_hash": "4dce7a78720d2fb72d490f396e9b55da",
+              "content_hash": "9c99ea11a7b78853b2a3838fd1a31c92"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "f8598aca71abe6ba5f4b8770aba3d8d9",
+      "to_node_id": "1b711c5c1f723df34549cb96d39dcac8",
+      "action": {
+        "action_id": "1ca9f8082243ea87fbaa79a8e2b6f0c9",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:e9983968d0af56c3e09a9dba68e4d827",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "Now Online",
+              "xpath": "/html/body/div[1]/nav/ul/li[4]/div/ul/li[2]/a",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "http://webarena.cms/admin/customer/online/",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "href": "http://webarena.cms/admin/customer/online/",
+                "class": ""
+              },
+              "structure_hash": "e9983968d0af56c3e09a9dba68e4d827",
+              "content_hash": "130503e57e967a7ce94dfd1947deafa9"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "f8598aca71abe6ba5f4b8770aba3d8d9",
+      "to_node_id": "343c422e41e1b5bef3d165facaea1dd9",
+      "action": {
+        "action_id": "cf4412eb4535c755b659b3cb06b08991",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:de3da447cfe479caff3964aef7e42221",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "All Customers",
+              "xpath": "/html/body/div[1]/nav/ul/li[4]/div/ul/li[1]/a",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "http://webarena.cms/admin/customer/index/",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "href": "http://webarena.cms/admin/customer/index/",
+                "class": ""
+              },
+              "structure_hash": "de3da447cfe479caff3964aef7e42221",
+              "content_hash": "1b11750b966e2fb409e5d2530ed387b8"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "f8598aca71abe6ba5f4b8770aba3d8d9",
+      "to_node_id": "5b35e50429cba3c360f9622afd76e00f",
+      "action": {
+        "action_id": "9951b8a1f545342b5a76af424919c1df",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:34d80afb95ad23398c9e2bb6172dd9ae",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "Customer Groups",
+              "xpath": "/html/body/div[1]/nav/ul/li[4]/div/ul/li[4]/a",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "http://webarena.cms/admin/customer/group/",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "href": "http://webarena.cms/admin/customer/group/",
+                "class": ""
+              },
+              "structure_hash": "34d80afb95ad23398c9e2bb6172dd9ae",
+              "content_hash": "fcee4a5668c2460c3583f0fdc53dc43c"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "7c1a3669098a373d8835c369e02a48ea",
+      "to_node_id": "9f0281f06d4da6c8679b229a00b09734",
+      "action": {
+        "action_id": "d0f1a67d797db7a35bbc9a4c08c65e75",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:9fd1fbb24467ea18e3706b771a0a8d7a",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "Cart Price Rules",
+              "xpath": "/html/body/div[1]/nav/ul/li[5]/div/ul/li[1]/ul/li[1]/div/ul/li[2]/a",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "http://webarena.cms/admin/sales_rule/promo_quote/",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "href": "http://webarena.cms/admin/sales_rule/promo_quote/",
+                "class": ""
+              },
+              "structure_hash": "9fd1fbb24467ea18e3706b771a0a8d7a",
+              "content_hash": "f30169d038a78b90ec3085ad8d494694"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "7c1a3669098a373d8835c369e02a48ea",
+      "to_node_id": "ab5334b190e91942f4c8dd144ce24d0f",
+      "action": {
+        "action_id": "c2c89c7946a4823565a11fb9dc8f351e",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:b01b953c5aa2a91b0d416ed0f02a0b7b",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "",
+              "xpath": "/html/body/div[1]/nav/ul/li[5]/div/a",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "#",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "href": "#",
+                "class": "action-close _close",
+                "data-role": "close-submenu"
+              },
+              "structure_hash": "b01b953c5aa2a91b0d416ed0f02a0b7b",
+              "content_hash": "9c99ea11a7b78853b2a3838fd1a31c92"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "7c1a3669098a373d8835c369e02a48ea",
+      "to_node_id": "40606691904314ad13bfebe3dc0051ad",
+      "action": {
+        "action_id": "cc0faaf1827b278b79531f384db18529",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:76e8b7204a0e70343ac96d5f4e4f9109",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "Search Synonyms",
+              "xpath": "/html/body/div[1]/nav/ul/li[5]/div/ul/li[2]/ul/li[1]/div/ul/li[3]/a",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "http://webarena.cms/admin/search/synonyms/index/",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "href": "http://webarena.cms/admin/search/synonyms/index/",
+                "class": ""
+              },
+              "structure_hash": "76e8b7204a0e70343ac96d5f4e4f9109",
+              "content_hash": "0611a2428c382a050a33703062b65066"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "7c1a3669098a373d8835c369e02a48ea",
+      "to_node_id": "bb794d018ecf9d0a0bbf638e5c59ecff",
+      "action": {
+        "action_id": "49fac5c10b6e1eaf9959ca36a960ee46",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:e690340e67ae7ba515726c9dfebe157b",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "All Reviews",
+              "xpath": "/html/body/div[1]/nav/ul/li[5]/div/ul/li[2]/ul/li[2]/div/ul/li[1]/a",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "http://webarena.cms/admin/review/product/index/",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "href": "http://webarena.cms/admin/review/product/index/",
+                "class": ""
+              },
+              "structure_hash": "e690340e67ae7ba515726c9dfebe157b",
+              "content_hash": "38644fa194d81d9bc1373cf78f0b3943"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "7c1a3669098a373d8835c369e02a48ea",
+      "to_node_id": "e69083d05d257a8f563f69543af721eb",
+      "action": {
+        "action_id": "97b90fc7f28ee2a0b5becb716f062c2b",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:302d4368cc244befc3600582be9ad881",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "Newsletter Templates",
+              "xpath": "/html/body/div[1]/nav/ul/li[5]/div/ul/li[1]/ul/li[2]/div/ul/li[2]/a",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "http://webarena.cms/admin/newsletter/template/",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "href": "http://webarena.cms/admin/newsletter/template/",
+                "class": ""
+              },
+              "structure_hash": "302d4368cc244befc3600582be9ad881",
+              "content_hash": "1b3a3c1e094dc315c1b1e213147938f8"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "7c1a3669098a373d8835c369e02a48ea",
+      "to_node_id": "ba43750f7ce75a5313e18d4886aab067",
+      "action": {
+        "action_id": "16e4a08981723a905632686fdbf8d3d8",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:069430a00714f86bf2fb3ab15c88c30f",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "Newsletter Queue",
+              "xpath": "/html/body/div[1]/nav/ul/li[5]/div/ul/li[1]/ul/li[2]/div/ul/li[3]/a",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "http://webarena.cms/admin/newsletter/queue/",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "href": "http://webarena.cms/admin/newsletter/queue/",
+                "class": ""
+              },
+              "structure_hash": "069430a00714f86bf2fb3ab15c88c30f",
+              "content_hash": "48015ecb2c650bfe4d81df8b884e8052"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "7c1a3669098a373d8835c369e02a48ea",
+      "to_node_id": "43b0b9c175bf8f03fbae9aaf8a3215fd",
+      "action": {
+        "action_id": "72391fd92550bc131825f98fa247a7fa",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:3c1a4fad80f4343a40472da22e537d06",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "Site Map",
+              "xpath": "/html/body/div[1]/nav/ul/li[5]/div/ul/li[2]/ul/li[1]/div/ul/li[4]/a",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "http://webarena.cms/admin/admin/sitemap/",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "href": "http://webarena.cms/admin/admin/sitemap/",
+                "class": ""
+              },
+              "structure_hash": "3c1a4fad80f4343a40472da22e537d06",
+              "content_hash": "ebcbeeb4df92bfdff0d81b8fbe8abd35"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "7c1a3669098a373d8835c369e02a48ea",
+      "to_node_id": "652ecc74c1793f7b5b1449a0848f147f",
+      "action": {
+        "action_id": "3d7ea64d3f6d2a8ee304190ef946e3ee",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:262fc46905bdeb8036c0567420a98109",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "Newsletter Subscribers",
+              "xpath": "/html/body/div[1]/nav/ul/li[5]/div/ul/li[1]/ul/li[2]/div/ul/li[4]/a",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "http://webarena.cms/admin/newsletter/subscriber/",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "href": "http://webarena.cms/admin/newsletter/subscriber/",
+                "class": ""
+              },
+              "structure_hash": "262fc46905bdeb8036c0567420a98109",
+              "content_hash": "9110c1d60ae2a310b4ff48530173716e"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "7c1a3669098a373d8835c369e02a48ea",
+      "to_node_id": "d7229fc24c218960d3a8bdf11a3b2ec1",
+      "action": {
+        "action_id": "1354fae3e8c96448125982db2c8756fa",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:ed6080ff6970e8719a93b077087a0e63",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "Pending Reviews",
+              "xpath": "/html/body/div[1]/nav/ul/li[5]/div/ul/li[2]/ul/li[2]/div/ul/li[2]/a",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "http://webarena.cms/admin/review/product/pending/",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "href": "http://webarena.cms/admin/review/product/pending/",
+                "class": ""
+              },
+              "structure_hash": "ed6080ff6970e8719a93b077087a0e63",
+              "content_hash": "6931a7bf29a7c9db0f102502d4296884"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "7c1a3669098a373d8835c369e02a48ea",
+      "to_node_id": "cf8fa0d09351907a5043769fd6c18acd",
+      "action": {
+        "action_id": "5c9ada099380ab4171def3a9af63db1b",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:0873f34ac571396b31027dc3ae1f1c51",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "Email Templates",
+              "xpath": "/html/body/div[1]/nav/ul/li[5]/div/ul/li[1]/ul/li[2]/div/ul/li[1]/a",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "http://webarena.cms/admin/admin/email_template/",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "href": "http://webarena.cms/admin/admin/email_template/",
+                "class": ""
+              },
+              "structure_hash": "0873f34ac571396b31027dc3ae1f1c51",
+              "content_hash": "a556150ad6fcaa5a38c4c4499ec08f59"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "7c1a3669098a373d8835c369e02a48ea",
+      "to_node_id": "bb0e24e0863ef4bfb6de9a2ab144a7f6",
+      "action": {
+        "action_id": "b71201ac3be0442f0741f767002828dd",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:ff32756df61879c9875e2830ba1f46f5",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "Catalog Price Rule",
+              "xpath": "/html/body/div[1]/nav/ul/li[5]/div/ul/li[1]/ul/li[1]/div/ul/li[1]/a",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "http://webarena.cms/admin/catalog_rule/promo_catalog/",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "href": "http://webarena.cms/admin/catalog_rule/promo_catalog/",
+                "class": ""
+              },
+              "structure_hash": "ff32756df61879c9875e2830ba1f46f5",
+              "content_hash": "4cddc18d4343c7fdd9635ec2cc70a28d"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "7c1a3669098a373d8835c369e02a48ea",
+      "to_node_id": "da57d4e71ce1141ba44773d9f930348c",
+      "action": {
+        "action_id": "507a8e3f40c4417decdb125c33de7a7d",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:5633413208fecea3f33dd573e24db0fa",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "Search Terms",
+              "xpath": "/html/body/div[1]/nav/ul/li[5]/div/ul/li[2]/ul/li[1]/div/ul/li[2]/a",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "http://webarena.cms/admin/search/term/index/",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "href": "http://webarena.cms/admin/search/term/index/",
+                "class": ""
+              },
+              "structure_hash": "5633413208fecea3f33dd573e24db0fa",
+              "content_hash": "9351bc4d0c51b30c0c85f962dc048f93"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "7c1a3669098a373d8835c369e02a48ea",
+      "to_node_id": "a3e17562575bf6eefb4ffe6ae80dd82c",
+      "action": {
+        "action_id": "19a3e110cc09c40f5f706c47d7cc6ad3",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:3e890b57788d08f963165d9e46fec1a9",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "URL Rewrites",
+              "xpath": "/html/body/div[1]/nav/ul/li[5]/div/ul/li[2]/ul/li[1]/div/ul/li[1]/a",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "http://webarena.cms/admin/admin/url_rewrite/index/",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "href": "http://webarena.cms/admin/admin/url_rewrite/index/",
+                "class": ""
+              },
+              "structure_hash": "3e890b57788d08f963165d9e46fec1a9",
+              "content_hash": "878366417a06e80ff6b2268a87284186"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "bcf4553ea43753a4c5ee35a029f2e4ac",
+      "to_node_id": "7c8597cd005e65bb5a5f69184ad129d9",
+      "action": {
+        "action_id": "3201d54b0c22d7ebc78a89cab2a6399f",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:bee564be79ed8fd3617aa485da2e922e",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "Widgets",
+              "xpath": "/html/body/div[1]/nav/ul/li[6]/div/ul/li[1]/div/ul/li[3]/a",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "http://webarena.cms/admin/admin/widget_instance/",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "href": "http://webarena.cms/admin/admin/widget_instance/",
+                "class": ""
+              },
+              "structure_hash": "bee564be79ed8fd3617aa485da2e922e",
+              "content_hash": "4545987bfec0d6ba816a67d795c8c596"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "bcf4553ea43753a4c5ee35a029f2e4ac",
+      "to_node_id": "8a083cc70df267ae1f755aa09ed8a8ce",
+      "action": {
+        "action_id": "5e1ceb5f1c8815c16264374898ad294c",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:ead6a502e534ed65d658a4c870f8d029",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "Themes",
+              "xpath": "/html/body/div[1]/nav/ul/li[6]/div/ul/li[3]/div/ul/li[2]/a",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "http://webarena.cms/admin/admin/system_design_theme/",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "href": "http://webarena.cms/admin/admin/system_design_theme/",
+                "class": ""
+              },
+              "structure_hash": "ead6a502e534ed65d658a4c870f8d029",
+              "content_hash": "b50ec0b2b2ae96cd4ce3782a891f9203"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "bcf4553ea43753a4c5ee35a029f2e4ac",
+      "to_node_id": "c7437025e4a4fcd774eac80b0d3cbfec",
+      "action": {
+        "action_id": "0154c76fd1025e25f0ab93285acf1e7f",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:91db07d823fe258361bc12d70c580939",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "",
+              "xpath": "/html/body/div[1]/nav/ul/li[6]/div/a",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "#",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "href": "#",
+                "class": "action-close _close",
+                "data-role": "close-submenu"
+              },
+              "structure_hash": "91db07d823fe258361bc12d70c580939",
+              "content_hash": "9c99ea11a7b78853b2a3838fd1a31c92"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "bcf4553ea43753a4c5ee35a029f2e4ac",
+      "to_node_id": "963f3205d094f33f4e70dc2cbf1a2733",
+      "action": {
+        "action_id": "f341e3f3061a752f1b25ebc44ec7fa50",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:820ed9c2bb53070bfc1a281294656520",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "Blocks",
+              "xpath": "/html/body/div[1]/nav/ul/li[6]/div/ul/li[1]/div/ul/li[2]/a",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "http://webarena.cms/admin/cms/block/",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "href": "http://webarena.cms/admin/cms/block/",
+                "class": ""
+              },
+              "structure_hash": "820ed9c2bb53070bfc1a281294656520",
+              "content_hash": "0b2dc084ef6be7e1bcd57ac3afae0818"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "bcf4553ea43753a4c5ee35a029f2e4ac",
+      "to_node_id": "7eb9f766a1e5bcf383a2629e0bd7f9f7",
+      "action": {
+        "action_id": "89f4715e76dbb66a7c68d65dc0672b38",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:7ac6802ed39684af6bbd583b5b9e74cb",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "Media Gallery",
+              "xpath": "/html/body/div[1]/nav/ul/li[6]/div/ul/li[2]/div/ul/li/a",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "http://webarena.cms/admin/media_gallery/media/index/",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "href": "http://webarena.cms/admin/media_gallery/media/index/",
+                "class": ""
+              },
+              "structure_hash": "7ac6802ed39684af6bbd583b5b9e74cb",
+              "content_hash": "5fa6a718b6eeed4eb12aa414cfa87fea"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "bcf4553ea43753a4c5ee35a029f2e4ac",
+      "to_node_id": "d42a0c29311d5db2902720f2e3eab3c9",
+      "action": {
+        "action_id": "a43434c4b10c111f64c03d9ac7c856fd",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:5226ed3c0dd46be8301c6919234b88ee",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "Pages",
+              "xpath": "/html/body/div[1]/nav/ul/li[6]/div/ul/li[1]/div/ul/li[1]/a",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "http://webarena.cms/admin/cms/page/",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "href": "http://webarena.cms/admin/cms/page/",
+                "class": ""
+              },
+              "structure_hash": "5226ed3c0dd46be8301c6919234b88ee",
+              "content_hash": "242cce31badf10b35c726cce89290859"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "bcf4553ea43753a4c5ee35a029f2e4ac",
+      "to_node_id": "e525e18c50ba241bbc7d44b5cc1084f7",
+      "action": {
+        "action_id": "a80b04ae02ef7e7a95f2cbed112f3c53",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:686a425388be35bbee6ab19ebe96f45e",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "Templates",
+              "xpath": "/html/body/div[1]/nav/ul/li[6]/div/ul/li[1]/div/ul/li[4]/a",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "http://webarena.cms/admin/pagebuilder/template/",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "href": "http://webarena.cms/admin/pagebuilder/template/",
+                "class": ""
+              },
+              "structure_hash": "686a425388be35bbee6ab19ebe96f45e",
+              "content_hash": "d0db4ad144a4cb62a31a7921f7fd0d53"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "bcf4553ea43753a4c5ee35a029f2e4ac",
+      "to_node_id": "4f0209ac2c6c7ffcbf8d2c5d56cf41e5",
+      "action": {
+        "action_id": "b582c8b39b072eb9462bf1b6dd136ff0",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:191585806402c7de82fce635e35c56f2",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "Schedule",
+              "xpath": "/html/body/div[1]/nav/ul/li[6]/div/ul/li[3]/div/ul/li[3]/a",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "http://webarena.cms/admin/admin/system_design/",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "href": "http://webarena.cms/admin/admin/system_design/",
+                "class": ""
+              },
+              "structure_hash": "191585806402c7de82fce635e35c56f2",
+              "content_hash": "79ba489a8f35a4b9dcb77101596cf8ad"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "bcf4553ea43753a4c5ee35a029f2e4ac",
+      "to_node_id": "1a000a4abea0d66b8f58fedb1961db07",
+      "action": {
+        "action_id": "168c657fd56ec133c3b1c70277d0c3ff",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:40267f6f1cdd939ca08590b74e3ec4fd",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "Configuration",
+              "xpath": "/html/body/div[1]/nav/ul/li[6]/div/ul/li[3]/div/ul/li[1]/a",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "http://webarena.cms/admin/theme/design_config/",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "href": "http://webarena.cms/admin/theme/design_config/",
+                "class": ""
+              },
+              "structure_hash": "40267f6f1cdd939ca08590b74e3ec4fd",
+              "content_hash": "8a626efd9e8addb0f36d7cabc730d2ab"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "98e4a517bc9b65b71f2ea998ff398aca",
+      "to_node_id": "fe9fd87deadb4f54b03343d4a05c0176",
+      "action": {
+        "action_id": "8a18a7e728c7155a05e3ae0e88f8adca",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:a0d7c0cb9611bdc02b055eb3ee2570d8",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "Orders",
+              "xpath": "/html/body/div[1]/nav/ul/li[7]/div/ul/li[2]/ul/li/div/ul/li[1]/a",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "http://webarena.cms/admin/reports/report_sales/sales/",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "href": "http://webarena.cms/admin/reports/report_sales/sales/",
+                "class": ""
+              },
+              "structure_hash": "a0d7c0cb9611bdc02b055eb3ee2570d8",
+              "content_hash": "0a631135f61fab896307b5e06ecfa6bd"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "98e4a517bc9b65b71f2ea998ff398aca",
+      "to_node_id": "737373e025db59c85d8631019dfbb7d0",
+      "action": {
+        "action_id": "313f4be2489ed91504315ce5c00dc951",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:b659c3191e6028076ec13fe5b25c0df1",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "By Products",
+              "xpath": "/html/body/div[1]/nav/ul/li[7]/div/ul/li[1]/ul/li[2]/div/ul/li[2]/a",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "http://webarena.cms/admin/reports/report_review/product/",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "href": "http://webarena.cms/admin/reports/report_review/product/",
+                "class": ""
+              },
+              "structure_hash": "b659c3191e6028076ec13fe5b25c0df1",
+              "content_hash": "cbd28d573291beac62995f861130e72d"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "98e4a517bc9b65b71f2ea998ff398aca",
+      "to_node_id": "699c886fefe51f272ddfe4c63363a581",
+      "action": {
+        "action_id": "883a294f95b8a999487e5c10bd5c492d",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:ab3d88492fe0305e4bfd30565dcd4647",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "Braintree Settlement",
+              "xpath": "/html/body/div[1]/nav/ul/li[7]/div/ul/li[2]/ul/li/div/ul/li[8]/a",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "http://webarena.cms/admin/braintree/report/",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "href": "http://webarena.cms/admin/braintree/report/",
+                "class": ""
+              },
+              "structure_hash": "ab3d88492fe0305e4bfd30565dcd4647",
+              "content_hash": "8e5f5cf2de51f24061b9b604ffad5bff"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "98e4a517bc9b65b71f2ea998ff398aca",
+      "to_node_id": "8198e5815917b57c0bbf228b254a784e",
+      "action": {
+        "action_id": "50659cb559174ecb32be29d778dd8f89",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:d95a1cc4488d9033e66685e82ace438e",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "Ordered",
+              "xpath": "/html/body/div[1]/nav/ul/li[7]/div/ul/li[3]/ul/li[2]/div/ul/li[4]/a",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "http://webarena.cms/admin/reports/report_product/sold/",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "href": "http://webarena.cms/admin/reports/report_product/sold/",
+                "class": ""
+              },
+              "structure_hash": "d95a1cc4488d9033e66685e82ace438e",
+              "content_hash": "cecdd79da3f46c6cbecad6a5c5f5fda7"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "98e4a517bc9b65b71f2ea998ff398aca",
+      "to_node_id": "55d8dcea2878904d969c0920d80a76b2",
+      "action": {
+        "action_id": "179a33716763ad1b100b8a9b0d067fb3",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:d67d26d9b996324257ebca7dfebee2a2",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "Products in Cart",
+              "xpath": "/html/body/div[1]/nav/ul/li[7]/div/ul/li[1]/ul/li[1]/div/ul/li[1]/a",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "http://webarena.cms/admin/reports/report_shopcart/product/",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "href": "http://webarena.cms/admin/reports/report_shopcart/product/",
+                "class": ""
+              },
+              "structure_hash": "d67d26d9b996324257ebca7dfebee2a2",
+              "content_hash": "027060337f4ee140e0a6c519beef35e8"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "98e4a517bc9b65b71f2ea998ff398aca",
+      "to_node_id": "93af5b0276de37a0f4ea08265ee1d301",
+      "action": {
+        "action_id": "f98abdcbb67e10bf537dd16d9208746a",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:8586dcdeaaf7b7a4fecbe911a6d33164",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "Abandoned Carts",
+              "xpath": "/html/body/div[1]/nav/ul/li[7]/div/ul/li[1]/ul/li[1]/div/ul/li[3]/a",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "http://webarena.cms/admin/reports/report_shopcart/abandoned/",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "href": "http://webarena.cms/admin/reports/report_shopcart/abandoned/",
+                "class": ""
+              },
+              "structure_hash": "8586dcdeaaf7b7a4fecbe911a6d33164",
+              "content_hash": "c2c56effd3494a6f6ac20a9988ed04b7"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "98e4a517bc9b65b71f2ea998ff398aca",
+      "to_node_id": "c7078ba02279525ede29cb3a9c1fcebd",
+      "action": {
+        "action_id": "fc9099d08289051817a8460b4f193725",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:08277bd972af0313f032baf1cacd608f",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "Views",
+              "xpath": "/html/body/div[1]/nav/ul/li[7]/div/ul/li[3]/ul/li[2]/div/ul/li[1]/a",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "http://webarena.cms/admin/reports/report_product/viewed/",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "href": "http://webarena.cms/admin/reports/report_product/viewed/",
+                "class": ""
+              },
+              "structure_hash": "08277bd972af0313f032baf1cacd608f",
+              "content_hash": "f28e26681d0082a1356107af3a0cac2c"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "98e4a517bc9b65b71f2ea998ff398aca",
+      "to_node_id": "413b26234ab9675dd1573ed7e0c5492d",
+      "action": {
+        "action_id": "b94594eb3e91851986f8475be9ea3f1c",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:781cb3b411eca8cb1b8098ea74eb6f6e",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "Shipping",
+              "xpath": "/html/body/div[1]/nav/ul/li[7]/div/ul/li[2]/ul/li/div/ul/li[4]/a",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "http://webarena.cms/admin/reports/report_sales/shipping/",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "href": "http://webarena.cms/admin/reports/report_sales/shipping/",
+                "class": ""
+              },
+              "structure_hash": "781cb3b411eca8cb1b8098ea74eb6f6e",
+              "content_hash": "99795d40e51363415fdff9391d1e2ede"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "98e4a517bc9b65b71f2ea998ff398aca",
+      "to_node_id": "5b8063b0eba2d5f3b8156a6cd51a8395",
+      "action": {
+        "action_id": "28d6d6c749e9b4a7bdd9febedba686b6",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:edb17d02986812be338eb2b09d4e89ec",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "Refresh Statistics",
+              "xpath": "/html/body/div[1]/nav/ul/li[7]/div/ul/li[3]/ul/li[3]/div/ul/li/a",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "http://webarena.cms/admin/reports/report_statistics/",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "href": "http://webarena.cms/admin/reports/report_statistics/",
+                "class": ""
+              },
+              "structure_hash": "edb17d02986812be338eb2b09d4e89ec",
+              "content_hash": "f5b34a3e8e0229859b9d828c3b58fa95"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "98e4a517bc9b65b71f2ea998ff398aca",
+      "to_node_id": "b073116fbaa8b332bdc7e3ad3eca2586",
+      "action": {
+        "action_id": "3526eb71b8bd237eb96656296da45a17",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:ea2289b453909f8730568684ac92b309",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "Tax",
+              "xpath": "/html/body/div[1]/nav/ul/li[7]/div/ul/li[2]/ul/li/div/ul/li[2]/a",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "http://webarena.cms/admin/reports/report_sales/tax/",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "href": "http://webarena.cms/admin/reports/report_sales/tax/",
+                "class": ""
+              },
+              "structure_hash": "ea2289b453909f8730568684ac92b309",
+              "content_hash": "f15db241be8cc1591a2bc2f75836e8e5"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "98e4a517bc9b65b71f2ea998ff398aca",
+      "to_node_id": "f4a4cd4b4abc7a2a30f18aaf0d9bffdd",
+      "action": {
+        "action_id": "4b4b4e4a4079ef667aaa39f363e5ebd3",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:fd35aae79cf782d4d01884461dd5cc12",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "By Customers",
+              "xpath": "/html/body/div[1]/nav/ul/li[7]/div/ul/li[1]/ul/li[2]/div/ul/li[1]/a",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "http://webarena.cms/admin/reports/report_review/customer/",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "href": "http://webarena.cms/admin/reports/report_review/customer/",
+                "class": ""
+              },
+              "structure_hash": "fd35aae79cf782d4d01884461dd5cc12",
+              "content_hash": "d3f2e20b10104deaad58dc8cadcf146d"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "98e4a517bc9b65b71f2ea998ff398aca",
+      "to_node_id": "8c3b2f26c8af37c66617aab7ac8d402c",
+      "action": {
+        "action_id": "eaf4bb02fff7b6f667ebf768322155f1",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:b10a490333f00ea5f4457825caa4f97d",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "PayPal Settlement",
+              "xpath": "/html/body/div[1]/nav/ul/li[7]/div/ul/li[2]/ul/li/div/ul/li[7]/a",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "http://webarena.cms/admin/paypal/paypal_reports/",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "href": "http://webarena.cms/admin/paypal/paypal_reports/",
+                "class": ""
+              },
+              "structure_hash": "b10a490333f00ea5f4457825caa4f97d",
+              "content_hash": "52cdd32d5e164372340e7092aee46988"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "98e4a517bc9b65b71f2ea998ff398aca",
+      "to_node_id": "dbb2ce2f7b0ac04dca6b9254fc8d0f55",
+      "action": {
+        "action_id": "b0dbb7ac1e314b42e2d3af91fee459b6",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:58e4c768dd9278082a28f35cfd6aa190",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "Search Terms",
+              "xpath": "/html/body/div[1]/nav/ul/li[7]/div/ul/li[1]/ul/li[1]/div/ul/li[2]/a",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "http://webarena.cms/admin/search/term/report/",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "href": "http://webarena.cms/admin/search/term/report/",
+                "class": ""
+              },
+              "structure_hash": "58e4c768dd9278082a28f35cfd6aa190",
+              "content_hash": "3e7d2326f91f1fcda645e0deda542967"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "98e4a517bc9b65b71f2ea998ff398aca",
+      "to_node_id": "8688eae4f98e0b2a4fba39363e1b1ebc",
+      "action": {
+        "action_id": "8913489a2a1da003ea0f6fbc15ab4dab",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:491b187e07a4e4867a238fe38c61cc1b",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "Newsletter Problem Reports",
+              "xpath": "/html/body/div[1]/nav/ul/li[7]/div/ul/li[1]/ul/li[1]/div/ul/li[4]/a",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "http://webarena.cms/admin/newsletter/problem/",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "href": "http://webarena.cms/admin/newsletter/problem/",
+                "class": ""
+              },
+              "structure_hash": "491b187e07a4e4867a238fe38c61cc1b",
+              "content_hash": "6c411056710a373639cd41899f705bca"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "98e4a517bc9b65b71f2ea998ff398aca",
+      "to_node_id": "2f3aba8ca712d9cb74f028101b32f435",
+      "action": {
+        "action_id": "88232e54167c2e945792160b12a717e4",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:5f3504d8db00aeb0739e70506d7eb4a5",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "Coupons",
+              "xpath": "/html/body/div[1]/nav/ul/li[7]/div/ul/li[2]/ul/li/div/ul/li[6]/a",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "http://webarena.cms/admin/reports/report_sales/coupons/",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "href": "http://webarena.cms/admin/reports/report_sales/coupons/",
+                "class": ""
+              },
+              "structure_hash": "5f3504d8db00aeb0739e70506d7eb4a5",
+              "content_hash": "efebae86d131019e154f4b54ad3b3cfa"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "98e4a517bc9b65b71f2ea998ff398aca",
+      "to_node_id": "56ed746ee2ce87c697694db992ed32e2",
+      "action": {
+        "action_id": "2d0092b0dd4d6314fd4671c39af9c99a",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:eb2843eb3409ce4b1f852dd9e2c3270e",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "Bestsellers",
+              "xpath": "/html/body/div[1]/nav/ul/li[7]/div/ul/li[3]/ul/li[2]/div/ul/li[2]/a",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "http://webarena.cms/admin/reports/report_sales/bestsellers/",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "href": "http://webarena.cms/admin/reports/report_sales/bestsellers/",
+                "class": ""
+              },
+              "structure_hash": "eb2843eb3409ce4b1f852dd9e2c3270e",
+              "content_hash": "77a5ace459cc8f863f8b8cfc6f3a7b04"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "98e4a517bc9b65b71f2ea998ff398aca",
+      "to_node_id": "755ae4652e34cf580f617049726a9e90",
+      "action": {
+        "action_id": "1b6901d1aea4d3d6c5c3d987e6242bfb",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:d39031fe32c1e4eb36392e88c6923bca",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "Order Count",
+              "xpath": "/html/body/div[1]/nav/ul/li[7]/div/ul/li[3]/ul/li[1]/div/ul/li[2]/a",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "http://webarena.cms/admin/reports/report_customer/orders/",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "href": "http://webarena.cms/admin/reports/report_customer/orders/",
+                "class": ""
+              },
+              "structure_hash": "d39031fe32c1e4eb36392e88c6923bca",
+              "content_hash": "d5315ea67fb26fa9a7021ba64f389d48"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "98e4a517bc9b65b71f2ea998ff398aca",
+      "to_node_id": "5f6f008825da250ce1e165b10c7c57a9",
+      "action": {
+        "action_id": "7dc82c96daecdc041ecaa2e528217e82",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:8e25166b244ed585da479d1da3920a0e",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "Refunds",
+              "xpath": "/html/body/div[1]/nav/ul/li[7]/div/ul/li[2]/ul/li/div/ul/li[5]/a",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "http://webarena.cms/admin/reports/report_sales/refunded/",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "href": "http://webarena.cms/admin/reports/report_sales/refunded/",
+                "class": ""
+              },
+              "structure_hash": "8e25166b244ed585da479d1da3920a0e",
+              "content_hash": "225136c1f9bda56b5f34bbc6872803da"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "98e4a517bc9b65b71f2ea998ff398aca",
+      "to_node_id": "8c9acd7a22b65f9c19456dd325ab7cd2",
+      "action": {
+        "action_id": "d4030226257c46b740c193a80d6eedd9",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:f1f40b4197aa4c7399824884d36bf8c2",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "Invoiced",
+              "xpath": "/html/body/div[1]/nav/ul/li[7]/div/ul/li[2]/ul/li/div/ul/li[3]/a",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "http://webarena.cms/admin/reports/report_sales/invoiced/",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "href": "http://webarena.cms/admin/reports/report_sales/invoiced/",
+                "class": ""
+              },
+              "structure_hash": "f1f40b4197aa4c7399824884d36bf8c2",
+              "content_hash": "1998d19bbd3f6370ef4ac0dfa20e1456"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "98e4a517bc9b65b71f2ea998ff398aca",
+      "to_node_id": "404860518cad80f9db4ba01ec2d3a47b",
+      "action": {
+        "action_id": "e8a2ab1c5ac51f70b8dd0503c6770de3",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:b4f91052dbdd4018dc4d6ab6969184f9",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "BI Essentials",
+              "xpath": "/html/body/div[1]/nav/ul/li[7]/div/ul/li[4]/ul/li/div/ul/li[2]/a",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "http://webarena.cms/admin/analytics/biessentials/signup/",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "href": "http://webarena.cms/admin/analytics/biessentials/signup/",
+                "target": "_blank",
+                "class": ""
+              },
+              "structure_hash": "b4f91052dbdd4018dc4d6ab6969184f9",
+              "content_hash": "7865af5543111b046d47c874c2a75a9b"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "98e4a517bc9b65b71f2ea998ff398aca",
+      "to_node_id": "93d56b2e8e459db3aa7f9e1d48169049",
+      "action": {
+        "action_id": "2f6099820a1be6eccccaa220ab1ddc06",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:6b8a3da45277abc1a3265c306c8a2f49",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "New",
+              "xpath": "/html/body/div[1]/nav/ul/li[7]/div/ul/li[3]/ul/li[1]/div/ul/li[3]/a",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "http://webarena.cms/admin/reports/report_customer/accounts/",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "href": "http://webarena.cms/admin/reports/report_customer/accounts/",
+                "class": ""
+              },
+              "structure_hash": "6b8a3da45277abc1a3265c306c8a2f49",
+              "content_hash": "52ff72c34b44cc91c6856fe00d005604"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "98e4a517bc9b65b71f2ea998ff398aca",
+      "to_node_id": "3b4e1ced6dc613ced8b30c7e33717ce7",
+      "action": {
+        "action_id": "6a2cd5a37fb84ebf0e50f3f50a958c12",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:bf412cd259acc586655d52338a509d18",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "Downloads",
+              "xpath": "/html/body/div[1]/nav/ul/li[7]/div/ul/li[3]/ul/li[2]/div/ul/li[5]/a",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "http://webarena.cms/admin/reports/report_product/downloads/",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "href": "http://webarena.cms/admin/reports/report_product/downloads/",
+                "class": ""
+              },
+              "structure_hash": "bf412cd259acc586655d52338a509d18",
+              "content_hash": "8024ae22df76b21f0de173230f08faa2"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "98e4a517bc9b65b71f2ea998ff398aca",
+      "to_node_id": "88c2b26b8f79ba5ce13484f67d31c8a5",
+      "action": {
+        "action_id": "e9f9b247f326a5b88b318157180541ce",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:ba26221c545c1137ae8eff18bf9f9428",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "Order Total",
+              "xpath": "/html/body/div[1]/nav/ul/li[7]/div/ul/li[3]/ul/li[1]/div/ul/li[1]/a",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "http://webarena.cms/admin/reports/report_customer/totals/",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "href": "http://webarena.cms/admin/reports/report_customer/totals/",
+                "class": ""
+              },
+              "structure_hash": "ba26221c545c1137ae8eff18bf9f9428",
+              "content_hash": "df5dc1caeae2e0e2e57f13730f8f600e"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "98e4a517bc9b65b71f2ea998ff398aca",
+      "to_node_id": "841754e28290e2270d804c04c7aa1e13",
+      "action": {
+        "action_id": "43a16d4304276aed7e7055b3d4e882d2",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:cbf88b2cdc2bb077a2efd443c092fc0a",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "Low Stock",
+              "xpath": "/html/body/div[1]/nav/ul/li[7]/div/ul/li[3]/ul/li[2]/div/ul/li[3]/a",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "http://webarena.cms/admin/reports/report_product/lowstock/",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "href": "http://webarena.cms/admin/reports/report_product/lowstock/",
+                "class": ""
+              },
+              "structure_hash": "cbf88b2cdc2bb077a2efd443c092fc0a",
+              "content_hash": "62c6375014c5faa6d6c2485200048c07"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "fd606c6af41cd156c99ef0a5e6918faa",
+      "to_node_id": "6e2de4e4ede8558e37d6ac3226ac751d",
+      "action": {
+        "action_id": "f2d30c99d35821eedbcad7e3c799e354",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:dc9b88f6cfae5e4fadfe250f4d21bd93",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "Currency Rates",
+              "xpath": "/html/body/div[1]/nav/ul/li[8]/div/ul/li[2]/ul/li[1]/div/ul/li[1]/a",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "http://webarena.cms/admin/admin/system_currency/",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "href": "http://webarena.cms/admin/admin/system_currency/",
+                "class": ""
+              },
+              "structure_hash": "dc9b88f6cfae5e4fadfe250f4d21bd93",
+              "content_hash": "73270b07d79659744da10a38bd624874"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "fd606c6af41cd156c99ef0a5e6918faa",
+      "to_node_id": "655b01f0d24a2a996871900ba51a16fd",
+      "action": {
+        "action_id": "effe45777d23aab10ed3c2331494913e",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:cf78c6d5a91b487b4c28dc25bb06d554",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "Terms and Conditions",
+              "xpath": "/html/body/div[1]/nav/ul/li[8]/div/ul/li[1]/ul/li[1]/div/ul/li[3]/a",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "http://webarena.cms/admin/checkout/agreement/",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "href": "http://webarena.cms/admin/checkout/agreement/",
+                "class": ""
+              },
+              "structure_hash": "cf78c6d5a91b487b4c28dc25bb06d554",
+              "content_hash": "d4c6d10f23b28e9ddc5c6470c4e844cc"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "fd606c6af41cd156c99ef0a5e6918faa",
+      "to_node_id": "d77a23c868200467bec4e1c278477be3",
+      "action": {
+        "action_id": "6edf97abdde00b3897cd0ae0adb5a64c",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:7b1f563ff9364d988a3ce76ff0d26485",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "Currency Symbols",
+              "xpath": "/html/body/div[1]/nav/ul/li[8]/div/ul/li[2]/ul/li[1]/div/ul/li[2]/a",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "http://webarena.cms/admin/admin/system_currencysymbol/",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "href": "http://webarena.cms/admin/admin/system_currencysymbol/",
+                "class": ""
+              },
+              "structure_hash": "7b1f563ff9364d988a3ce76ff0d26485",
+              "content_hash": "0a21eda14e60042d18606e14c2ea53a7"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "fd606c6af41cd156c99ef0a5e6918faa",
+      "to_node_id": "277ccacddb4b7072185a6f01575141d1",
+      "action": {
+        "action_id": "a11793113132deca9c2bb3dc11782769",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:aed5351803ed2f7ab071d0ad0bb661b7",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "Stocks",
+              "xpath": "/html/body/div[1]/nav/ul/li[8]/div/ul/li[1]/ul/li[2]/div/ul/li[2]/a",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "http://webarena.cms/admin/inventory/stock/index/",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "href": "http://webarena.cms/admin/inventory/stock/index/",
+                "class": ""
+              },
+              "structure_hash": "aed5351803ed2f7ab071d0ad0bb661b7",
+              "content_hash": "b36c10429545fb9d3f11cfebb6e758ec"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "fd606c6af41cd156c99ef0a5e6918faa",
+      "to_node_id": "f66183b8ddee3510dc0152c43f994106",
+      "action": {
+        "action_id": "fd078b15f2d08bea20b65512324c76d2",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:029e4eefa9d10281cdf35f395ca69933",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "Tax Zones and Rates",
+              "xpath": "/html/body/div[1]/nav/ul/li[8]/div/ul/li[1]/ul/li[3]/div/ul/li[2]/a",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "http://webarena.cms/admin/tax/rate/",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "href": "http://webarena.cms/admin/tax/rate/",
+                "class": ""
+              },
+              "structure_hash": "029e4eefa9d10281cdf35f395ca69933",
+              "content_hash": "a55bd29119a5e18d4b46d94df8d89097"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "fd606c6af41cd156c99ef0a5e6918faa",
+      "to_node_id": "22d5ce2afdd5a1e9fe1f3b45ffe0fc02",
+      "action": {
+        "action_id": "dfea09a33d307ceb3d46370f588a6be3",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:1518960421070af114cf5b015755c673",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "Product",
+              "xpath": "/html/body/div[1]/nav/ul/li[8]/div/ul/li[2]/ul/li[2]/div/ul/li[1]/a",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "http://webarena.cms/admin/catalog/product_attribute/",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "href": "http://webarena.cms/admin/catalog/product_attribute/",
+                "class": ""
+              },
+              "structure_hash": "1518960421070af114cf5b015755c673",
+              "content_hash": "9b312c7d20af5c8e81020f72c155ee3e"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "fd606c6af41cd156c99ef0a5e6918faa",
+      "to_node_id": "41f12947a7364d03f5522c01f6e05104",
+      "action": {
+        "action_id": "78b607ae9eaed40ee29add44eda12ae7",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:78108a68f63372ebbfe739a62c119177",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "Configuration",
+              "xpath": "/html/body/div[1]/nav/ul/li[8]/div/ul/li[1]/ul/li[1]/div/ul/li[2]/a",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "http://webarena.cms/admin/admin/system_config/",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "href": "http://webarena.cms/admin/admin/system_config/",
+                "class": ""
+              },
+              "structure_hash": "78108a68f63372ebbfe739a62c119177",
+              "content_hash": "15c0aaf029b43b6678c97cd98ef3feb0"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "fd606c6af41cd156c99ef0a5e6918faa",
+      "to_node_id": "924b0b4d8d4ad096d7ec44219f19db59",
+      "action": {
+        "action_id": "c2d75d52fafb1d713bb10bbb5bc273cd",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:60f8aa327dabfbbcb70a677ca34c71d1",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "Tax Rules",
+              "xpath": "/html/body/div[1]/nav/ul/li[8]/div/ul/li[1]/ul/li[3]/div/ul/li[1]/a",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "http://webarena.cms/admin/tax/rule/",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "href": "http://webarena.cms/admin/tax/rule/",
+                "class": ""
+              },
+              "structure_hash": "60f8aa327dabfbbcb70a677ca34c71d1",
+              "content_hash": "de3d4f502990a11ec6a4cc11710d4446"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "fd606c6af41cd156c99ef0a5e6918faa",
+      "to_node_id": "889b7aef40c86017d3f613ad8a59e1d1",
+      "action": {
+        "action_id": "a6e5e0f052240961bd08ad646d814e04",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:c15bc77feec43591b6b57e98c38658fc",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "Sources",
+              "xpath": "/html/body/div[1]/nav/ul/li[8]/div/ul/li[1]/ul/li[2]/div/ul/li[1]/a",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "http://webarena.cms/admin/inventory/source/index/",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "href": "http://webarena.cms/admin/inventory/source/index/",
+                "class": ""
+              },
+              "structure_hash": "c15bc77feec43591b6b57e98c38658fc",
+              "content_hash": "4ffc9b829d74720406f6656291eae2c0"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "fd606c6af41cd156c99ef0a5e6918faa",
+      "to_node_id": "2967cdfb16a9143d6974ff900a4070cd",
+      "action": {
+        "action_id": "54ff331d7c8fd219024ec78ba53e6c9e",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:c5c370a249371dfde61f397aed0f1eec",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "Rating",
+              "xpath": "/html/body/div[1]/nav/ul/li[8]/div/ul/li[2]/ul/li[2]/div/ul/li[3]/a",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "http://webarena.cms/admin/review/rating/",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "href": "http://webarena.cms/admin/review/rating/",
+                "class": ""
+              },
+              "structure_hash": "c5c370a249371dfde61f397aed0f1eec",
+              "content_hash": "ed39a1c4db9952edf181296ea6a693bf"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "fd606c6af41cd156c99ef0a5e6918faa",
+      "to_node_id": "7be6081107106ef5eef68bc0423910e1",
+      "action": {
+        "action_id": "8191a4b7e517a7e9473a0e2f7572f7d7",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:100597ec6d9b1fda5f854e57c1c20615",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "",
+              "xpath": "/html/body/div[1]/nav/ul/li[8]/div/a",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "#",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "href": "#",
+                "class": "action-close _close",
+                "data-role": "close-submenu"
+              },
+              "structure_hash": "100597ec6d9b1fda5f854e57c1c20615",
+              "content_hash": "9c99ea11a7b78853b2a3838fd1a31c92"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "fd606c6af41cd156c99ef0a5e6918faa",
+      "to_node_id": "1313d9697f72664f4e49eeb9a4158394",
+      "action": {
+        "action_id": "59d91e1b47e6f9f82c4201942573fd55",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:9b57639b96a23a75b36fb89d021f48b1",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "Order Status",
+              "xpath": "/html/body/div[1]/nav/ul/li[8]/div/ul/li[1]/ul/li[1]/div/ul/li[4]/a",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "http://webarena.cms/admin/sales/order_status/",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "href": "http://webarena.cms/admin/sales/order_status/",
+                "class": ""
+              },
+              "structure_hash": "9b57639b96a23a75b36fb89d021f48b1",
+              "content_hash": "40477f3ee10d2c78c079d97aa51a2551"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "fd606c6af41cd156c99ef0a5e6918faa",
+      "to_node_id": "5c0bca3b4f59764de44fcd774caf0d88",
+      "action": {
+        "action_id": "928f7b0158dd85686bf9619bc8dde743",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:3248c92292aeb60ee8b9be34f7a3569a",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "Attribute Set",
+              "xpath": "/html/body/div[1]/nav/ul/li[8]/div/ul/li[2]/ul/li[2]/div/ul/li[2]/a",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "http://webarena.cms/admin/catalog/product_set/",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "href": "http://webarena.cms/admin/catalog/product_set/",
+                "class": ""
+              },
+              "structure_hash": "3248c92292aeb60ee8b9be34f7a3569a",
+              "content_hash": "69c51631328aabe1a75fb5b74d916487"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "fd606c6af41cd156c99ef0a5e6918faa",
+      "to_node_id": "87d33dce2e6572d34a731c3c902f56c5",
+      "action": {
+        "action_id": "3c49e1f5fde556da939fa8cf2e38bf32",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:5dd1cb5ddb50f81f4c65454ec024088e",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "All Stores",
+              "xpath": "/html/body/div[1]/nav/ul/li[8]/div/ul/li[1]/ul/li[1]/div/ul/li[1]/a",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "http://webarena.cms/admin/admin/system_store/",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "href": "http://webarena.cms/admin/admin/system_store/",
+                "class": ""
+              },
+              "structure_hash": "5dd1cb5ddb50f81f4c65454ec024088e",
+              "content_hash": "6229fc339eb194342f7e723e45c7e413"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "19556024e4a48a616b13c7dbf4db302c",
+      "to_node_id": "b68da346508226a54e0b185ef41bb60b",
+      "action": {
+        "action_id": "fd6c76c082144b5beb370dea738ee30a",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:5841a8af622834c52da30386692109fe",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "Cache Management",
+              "xpath": "/html/body/div[1]/nav/ul/li[9]/div/ul/li[1]/ul/li[3]/div/ul/li[1]/a",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "http://webarena.cms/admin/admin/cache/",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "href": "http://webarena.cms/admin/admin/cache/",
+                "class": ""
+              },
+              "structure_hash": "5841a8af622834c52da30386692109fe",
+              "content_hash": "be5f7945ac2ed20ff3c05c1c5ef92806"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "19556024e4a48a616b13c7dbf4db302c",
+      "to_node_id": "b0169bfd8f2504700416405a309606b3",
+      "action": {
+        "action_id": "bc781b1e2e2e63285b966f409dc13f68",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:44f812a96c26de5e6e9a4b9d56d52d63",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "",
+              "xpath": "/html/body/div[1]/nav/ul/li[9]/div/a",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "#",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "href": "#",
+                "class": "action-close _close",
+                "data-role": "close-submenu"
+              },
+              "structure_hash": "44f812a96c26de5e6e9a4b9d56d52d63",
+              "content_hash": "9c99ea11a7b78853b2a3838fd1a31c92"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "19556024e4a48a616b13c7dbf4db302c",
+      "to_node_id": "6c9a32dd4a91ff321659039e76331eaa",
+      "action": {
+        "action_id": "a5f5acdbb7ab48732f1637f9cb497780",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:64b7019ff2076c2c48053767b11801bf",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "Import/Export Tax Rates",
+              "xpath": "/html/body/div[1]/nav/ul/li[9]/div/ul/li[1]/ul/li[1]/div/ul/li[3]/a",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "http://webarena.cms/admin/tax/rate/importExport/",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "href": "http://webarena.cms/admin/tax/rate/importExport/",
+                "class": ""
+              },
+              "structure_hash": "64b7019ff2076c2c48053767b11801bf",
+              "content_hash": "66156b8e149fdd0226207617f6938198"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "19556024e4a48a616b13c7dbf4db302c",
+      "to_node_id": "5c3e86addd1a7bae8708447644efa323",
+      "action": {
+        "action_id": "b69d4837251249de30b773808c000056",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:e11f83d1b48bdd8e211a74d69bf199e1",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "Integrations",
+              "xpath": "/html/body/div[1]/nav/ul/li[9]/div/ul/li[1]/ul/li[2]/div/ul/li/a",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "http://webarena.cms/admin/admin/integration/",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "href": "http://webarena.cms/admin/admin/integration/",
+                "class": ""
+              },
+              "structure_hash": "e11f83d1b48bdd8e211a74d69bf199e1",
+              "content_hash": "1aea116eb4b7a449ee54b5685a84dead"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "19556024e4a48a616b13c7dbf4db302c",
+      "to_node_id": "c02ffbd615042d515045278f6604889f",
+      "action": {
+        "action_id": "a626f26e6a5723afc312a0a9df37f953",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:0373e9e0748268c08753ddee070ac01a",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "Custom Variables",
+              "xpath": "/html/body/div[1]/nav/ul/li[9]/div/ul/li[2]/ul/li[3]/div/ul/li[2]/a",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "http://webarena.cms/admin/admin/system_variable/",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "href": "http://webarena.cms/admin/admin/system_variable/",
+                "class": ""
+              },
+              "structure_hash": "0373e9e0748268c08753ddee070ac01a",
+              "content_hash": "dea4d19fda4bf850442b01868e513c02"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "19556024e4a48a616b13c7dbf4db302c",
+      "to_node_id": "1721c9053b61655ef1f4b1194327be97",
+      "action": {
+        "action_id": "583632c05aa04e5aea0a75d63c321f1d",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:78d084bcd94bec0e53e454bc113c88f0",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "User Roles",
+              "xpath": "/html/body/div[1]/nav/ul/li[9]/div/ul/li[2]/ul/li[1]/div/ul/li[3]/a",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "http://webarena.cms/admin/admin/user_role/",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "href": "http://webarena.cms/admin/admin/user_role/",
+                "class": ""
+              },
+              "structure_hash": "78d084bcd94bec0e53e454bc113c88f0",
+              "content_hash": "f1673c6c6bef793922a307e9823ba6b5"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "19556024e4a48a616b13c7dbf4db302c",
+      "to_node_id": "df7ef9f4360f8b11c3ed915f5394179b",
+      "action": {
+        "action_id": "3120487379b189474eff220c88b56d2f",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:b30204d2ed9b18cefcc90df8760c8dd4",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "All Users",
+              "xpath": "/html/body/div[1]/nav/ul/li[9]/div/ul/li[2]/ul/li[1]/div/ul/li[1]/a",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "http://webarena.cms/admin/admin/user/",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "href": "http://webarena.cms/admin/admin/user/",
+                "class": ""
+              },
+              "structure_hash": "b30204d2ed9b18cefcc90df8760c8dd4",
+              "content_hash": "ca78bb63299c8c12d1a3cd29f521a29b"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "19556024e4a48a616b13c7dbf4db302c",
+      "to_node_id": "b7fa7dc0370df785db1842847b00727d",
+      "action": {
+        "action_id": "9182f0b2947e072c82f802cde5e1adf6",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:641fb4698ee426f14754bfd4ade3ba5a",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "Locked Users",
+              "xpath": "/html/body/div[1]/nav/ul/li[9]/div/ul/li[2]/ul/li[1]/div/ul/li[2]/a",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "http://webarena.cms/admin/admin/locks/",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "href": "http://webarena.cms/admin/admin/locks/",
+                "class": ""
+              },
+              "structure_hash": "641fb4698ee426f14754bfd4ade3ba5a",
+              "content_hash": "7f89cf9ebf85728ac24e981c4d7e1634"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "19556024e4a48a616b13c7dbf4db302c",
+      "to_node_id": "60d2683539fa94cb1add5c6f6ab17506",
+      "action": {
+        "action_id": "6a44992fa33a3f385fca82a6bd3b9c04",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:87e60d83644fec467f54a8a4015830f4",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "Index Management",
+              "xpath": "/html/body/div[1]/nav/ul/li[9]/div/ul/li[1]/ul/li[3]/div/ul/li[2]/a",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "http://webarena.cms/admin/indexer/indexer/list/",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "href": "http://webarena.cms/admin/indexer/indexer/list/",
+                "class": ""
+              },
+              "structure_hash": "87e60d83644fec467f54a8a4015830f4",
+              "content_hash": "fa095a512c84a3b4eb7647c657121690"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "19556024e4a48a616b13c7dbf4db302c",
+      "to_node_id": "99c1d8cc5ebfdc3155a4178e31c4cb17",
+      "action": {
+        "action_id": "2ff4629555b673ddfb3ebb367e35cd02",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:1c9b20b8d8ab7d4933a8011005bbda33",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "Export",
+              "xpath": "/html/body/div[1]/nav/ul/li[9]/div/ul/li[1]/ul/li[1]/div/ul/li[2]/a",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "http://webarena.cms/admin/admin/export/",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "href": "http://webarena.cms/admin/admin/export/",
+                "class": ""
+              },
+              "structure_hash": "1c9b20b8d8ab7d4933a8011005bbda33",
+              "content_hash": "de9e1cf3828279bcc56c6811aaa25706"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "19556024e4a48a616b13c7dbf4db302c",
+      "to_node_id": "f08ba9a14b2c30a79a4b447e0e314947",
+      "action": {
+        "action_id": "2b3b88cf344d6ad1d9091df1df89e323",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:5c5700bee5ca1275faa2931afb42124d",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "Notifications",
+              "xpath": "/html/body/div[1]/nav/ul/li[9]/div/ul/li[2]/ul/li[3]/div/ul/li[1]/a",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "http://webarena.cms/admin/admin/notification/",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "href": "http://webarena.cms/admin/admin/notification/",
+                "class": ""
+              },
+              "structure_hash": "5c5700bee5ca1275faa2931afb42124d",
+              "content_hash": "dda5eec33e51a37d5f95e67d07ed06b0"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "19556024e4a48a616b13c7dbf4db302c",
+      "to_node_id": "4a090f9137f36f7de323e89417cf6bd1",
+      "action": {
+        "action_id": "1a9529ecca07a401debaecbf2cc68d47",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:532f6c4b3fe05279358a5d4a0b16c3cd",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "Bulk Actions",
+              "xpath": "/html/body/div[1]/nav/ul/li[9]/div/ul/li[2]/ul/li[2]/div/ul/li/a",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "http://webarena.cms/admin/bulk/index/",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "href": "http://webarena.cms/admin/bulk/index/",
+                "class": ""
+              },
+              "structure_hash": "532f6c4b3fe05279358a5d4a0b16c3cd",
+              "content_hash": "cc29eef41271afb510987b1ab1e2915c"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "19556024e4a48a616b13c7dbf4db302c",
+      "to_node_id": "3320498bc5daa4b45723eed44d4f72b5",
+      "action": {
+        "action_id": "4b55dc4df9215f02d98f84bb18e06e45",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:0d80a6549dd592e0c48851d747789e70",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "Import",
+              "xpath": "/html/body/div[1]/nav/ul/li[9]/div/ul/li[1]/ul/li[1]/div/ul/li[1]/a",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "http://webarena.cms/admin/admin/import/",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "href": "http://webarena.cms/admin/admin/import/",
+                "class": ""
+              },
+              "structure_hash": "0d80a6549dd592e0c48851d747789e70",
+              "content_hash": "cd0008bbae5e7854d7840961186ac561"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "19556024e4a48a616b13c7dbf4db302c",
+      "to_node_id": "e04fd6c3683e5a86e92b359c915434fa",
+      "action": {
+        "action_id": "85788811452cdbc65168fa930860d300",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:1a31db8f0ed156cacf62ed53007f2003",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "Import History",
+              "xpath": "/html/body/div[1]/nav/ul/li[9]/div/ul/li[1]/ul/li[1]/div/ul/li[4]/a",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "http://webarena.cms/admin/admin/history/",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "href": "http://webarena.cms/admin/admin/history/",
+                "class": ""
+              },
+              "structure_hash": "1a31db8f0ed156cacf62ed53007f2003",
+              "content_hash": "f1b321aed9c0ac5e864d27864dd30529"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "19556024e4a48a616b13c7dbf4db302c",
+      "to_node_id": "53a02ce05c93a89579c2d9d748409182",
+      "action": {
+        "action_id": "185ff7ca276b979fbb36ff76ba0a96ce",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:c1907e99735eb16c910211d2c830a803",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "Manage Encryption Key",
+              "xpath": "/html/body/div[1]/nav/ul/li[9]/div/ul/li[2]/ul/li[3]/div/ul/li[3]/a",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "http://webarena.cms/admin/admin/crypt_key/",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "href": "http://webarena.cms/admin/admin/crypt_key/",
+                "class": ""
+              },
+              "structure_hash": "c1907e99735eb16c910211d2c830a803",
+              "content_hash": "00b849bbd345bb291f7ca3830a823201"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "e8fa264ab56314a6ccfe26d81c90c954",
+      "to_node_id": "5efe9bc61d2b7d7f7d1447d7bdbd81f4",
+      "action": {
+        "action_id": "8b28a3b3e687d2a2397524f956e886e9",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:b46cdac3d2cab0bb858d02f40b2cb0d1",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "Account Setting ( admin )",
+              "xpath": "/html/body/div[2]/header/div[2]/div[1]/ul/li[1]/a",
+              "text_content": "",
+              "description": "Account Setting",
+              "placeholder": null,
+              "href": "http://webarena.cms/admin/admin/system_account/index/",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "href": "http://webarena.cms/admin/admin/system_account/index/",
+                "data-ui-id": "user-user-account-settings",
+                "title": "Account Setting"
+              },
+              "structure_hash": "b46cdac3d2cab0bb858d02f40b2cb0d1",
+              "content_hash": "2976386d95acd7369e2c87be9ea90a87"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "95046b151286880f243340f48c9ada06",
+      "to_node_id": "a286ef02dd6b590462aa3d251aec4e75",
+      "action": {
+        "action_id": "d25032692360d7eb7fc0cc41a43f6ce7",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:1fccef205b49820b29b93f068993a2eb",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "Remove",
+              "xpath": "/html/body/div[2]/main/div/div/div/div/div[2]/table/tbody/tr[2]/td[5]/a",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "http://webarena.cms/admin/admin/notification/remove/id/1/uenc/aHR0cDovLzExNC4yMTIuMjIuMTAzOjc3ODAvYWRtaW4vYWRtaW4vbm90aWZpY2F0aW9uL2luZGV4Lw~~/",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "class": "action-delete",
+                "href": "http://webarena.cms/admin/admin/notification/remove/id/1/uenc/aHR0cDovLzExNC4yMTIuMjIuMTAzOjc3ODAvYWRtaW4vYWRtaW4vbm90aWZpY2F0aW9uL2luZGV4Lw~~/",
+                "onclick": "deleteConfirm('Are you sure?', this.href); return false;"
+              },
+              "structure_hash": "1fccef205b49820b29b93f068993a2eb",
+              "content_hash": "c063f607985813db0f835807e9ab7786"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "95046b151286880f243340f48c9ada06",
+      "to_node_id": "d1d264ffcc2971b99e94a36152b1cb89",
+      "action": {
+        "action_id": "092657d23a1e15bb95b01fd144b02212",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:665170dfbd3186823f4c719566775d97",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "Remove",
+              "xpath": "/html/body/div[2]/main/div/div/div/div/div[2]/table/tbody/tr[1]/td[5]/a[2]",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "http://webarena.cms/admin/admin/notification/remove/id/2/uenc/aHR0cDovLzExNC4yMTIuMjIuMTAzOjc3ODAvYWRtaW4vYWRtaW4vbm90aWZpY2F0aW9uL2luZGV4Lw~~/",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "class": "action-delete",
+                "href": "http://webarena.cms/admin/admin/notification/remove/id/2/uenc/aHR0cDovLzExNC4yMTIuMjIuMTAzOjc3ODAvYWRtaW4vYWRtaW4vbm90aWZpY2F0aW9uL2luZGV4Lw~~/",
+                "onclick": "deleteConfirm('Are you sure?', this.href); return false;"
+              },
+              "structure_hash": "665170dfbd3186823f4c719566775d97",
+              "content_hash": "55dcba878445d05f8d50bc9ffbc5e2c9"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "490dd1bf711dbf438743b8c424c7eb8e",
+      "to_node_id": "2f5ec0522fcbfd9021ca382e040f4f64",
+      "action": {
+        "action_id": "983ffd774d9ac1fa3264e8bef668639f",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:780311d22375b23d6c8b97367b9940e9",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "Developer",
+              "xpath": "/html/body/div[2]/main/div[2]/div[2]/div/div[7]/ul/li[3]/a",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "http://webarena.cms/admin/admin/system_config/edit/section/dev/",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "href": "http://webarena.cms/admin/admin/system_config/edit/section/dev/",
+                "class": "admin__page-nav-link item-nav"
+              },
+              "structure_hash": "780311d22375b23d6c8b97367b9940e9",
+              "content_hash": "7c764f5c7b70dc06d6bb79d010e13cfb"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "490dd1bf711dbf438743b8c424c7eb8e",
+      "to_node_id": "d5f3a9c8a61357d1b4034d7d83307b1d",
+      "action": {
+        "action_id": "c6c487aa34df5b9c1c14132e6b6a160f",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:8bf2d5da8f9888a121b557f0ad63dee5",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": " CAPTCHA",
+              "xpath": "//*[@id=\"admin_captcha-head\"]",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "#admin_captcha-link",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "id": "admin_captcha-head",
+                "href": "#admin_captcha-link",
+                "class": ""
+              },
+              "structure_hash": "8bf2d5da8f9888a121b557f0ad63dee5",
+              "content_hash": "9960263c63eacda4a5d726587f8be7f7"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "490dd1bf711dbf438743b8c424c7eb8e",
+      "to_node_id": "e812e43dc18a486d055e6df39cee9891",
+      "action": {
+        "action_id": "f51bc5b256dd555b93f847d11b697a85",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:1151aa4725514b359df0c8a45358d422",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "Admin",
+              "xpath": "/html/body/div[2]/main/div[2]/div[2]/div/div[7]/ul/li[1]/a",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "http://webarena.cms/admin/admin/system_config/edit/section/admin/",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "href": "http://webarena.cms/admin/admin/system_config/edit/section/admin/",
+                "class": "admin__page-nav-link item-nav"
+              },
+              "structure_hash": "1151aa4725514b359df0c8a45358d422",
+              "content_hash": "0c6c4b2c99a4a171fdb26002a3720889"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "490dd1bf711dbf438743b8c424c7eb8e",
+      "to_node_id": "3f289a192ba2827f70605850fc498332",
+      "action": {
+        "action_id": "54fd6354086904882f2e3ed598e32bb4",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:adf24eb101e1a7f6409f0ccd71f727b8",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": " Admin Usage",
+              "xpath": "//*[@id=\"admin_usage-head\"]",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "#admin_usage-link",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "id": "admin_usage-head",
+                "href": "#admin_usage-link",
+                "class": ""
+              },
+              "structure_hash": "adf24eb101e1a7f6409f0ccd71f727b8",
+              "content_hash": "2495daf092f08887e34d23644d17a795"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "490dd1bf711dbf438743b8c424c7eb8e",
+      "to_node_id": "ed4c247b18e399de301794ca9c086d2b",
+      "action": {
+        "action_id": "acf15619b1212a76ec41465bbc88f328",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:0e2ffca0ea2ee012fc6da058bec3e272",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": " Admin Base URL",
+              "xpath": "//*[@id=\"admin_url-head\"]",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "#admin_url-link",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "id": "admin_url-head",
+                "href": "#admin_url-link",
+                "class": ""
+              },
+              "structure_hash": "0e2ffca0ea2ee012fc6da058bec3e272",
+              "content_hash": "6d33a7b94313477e66c71dcff544a740"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "490dd1bf711dbf438743b8c424c7eb8e",
+      "to_node_id": "67e065320ff93169c787b04db720429b",
+      "action": {
+        "action_id": "a861b415f77fd651b9b81ef81b9f1727",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:6fceee86961a7119467ab146b8a39050",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": " Startup Page",
+              "xpath": "//*[@id=\"admin_startup-head\"]",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "#admin_startup-link",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "id": "admin_startup-head",
+                "href": "#admin_startup-link",
+                "class": ""
+              },
+              "structure_hash": "6fceee86961a7119467ab146b8a39050",
+              "content_hash": "971affce66fae4c752443b696ef53a80"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "490dd1bf711dbf438743b8c424c7eb8e",
+      "to_node_id": "59600e090e341f6b655b4195a3674859",
+      "action": {
+        "action_id": "4eb3115f8fb076de90b7967efb81373d",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:c4d11be2cb8aef8252b5278a230b12c0",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": " Security",
+              "xpath": "//*[@id=\"admin_security-head\"]",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "#admin_security-link",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "id": "admin_security-head",
+                "href": "#admin_security-link",
+                "class": ""
+              },
+              "structure_hash": "c4d11be2cb8aef8252b5278a230b12c0",
+              "content_hash": "ad159c4c93083b3c60149cb2195f814b"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "490dd1bf711dbf438743b8c424c7eb8e",
+      "to_node_id": "ac371a187bdfc2e7de2e5640257f322b",
+      "action": {
+        "action_id": "12772cf7d0e7d6727c88c7ddd2213233",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:ad7d281ecfe7531c0aec408ffef5538e",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "System",
+              "xpath": "/html/body/div[2]/main/div[2]/div[2]/div/div[7]/ul/li[2]/a",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "http://webarena.cms/admin/admin/system_config/edit/section/system/",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "href": "http://webarena.cms/admin/admin/system_config/edit/section/system/",
+                "class": "admin__page-nav-link item-nav"
+              },
+              "structure_hash": "ad7d281ecfe7531c0aec408ffef5538e",
+              "content_hash": "ccff4b1c8d570f376e238ca7778864a0"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "490dd1bf711dbf438743b8c424c7eb8e",
+      "to_node_id": "1f7ce5c43de456461aefe2d1c64ef8e9",
+      "action": {
+        "action_id": "bdd642227b8fe83e07f9393efe0876c0",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:004897f694e8582a5acf574e71c08574",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": " Admin User Emails",
+              "xpath": "//*[@id=\"admin_emails-head\"]",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "#admin_emails-link",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "id": "admin_emails-head",
+                "href": "#admin_emails-link",
+                "class": ""
+              },
+              "structure_hash": "004897f694e8582a5acf574e71c08574",
+              "content_hash": "5287f026b0598ec05123c2bff7b8dba4"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "490dd1bf711dbf438743b8c424c7eb8e",
+      "to_node_id": "8aa60caecc9c46085896ad2b792c0d35",
+      "action": {
+        "action_id": "fe3cf5a59db70517791155e78b98d8a4",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:b0a60bcb2872146f675179246dd72f68",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": " Dashboard",
+              "xpath": "//*[@id=\"admin_dashboard-head\"]",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "#admin_dashboard-link",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "id": "admin_dashboard-head",
+                "href": "#admin_dashboard-link",
+                "class": "open"
+              },
+              "structure_hash": "b0a60bcb2872146f675179246dd72f68",
+              "content_hash": "b00e0f94eedfce0deb52f0335e09e5e0"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "490dd1bf711dbf438743b8c424c7eb8e",
+      "to_node_id": "0af12087581ee19f2aed1eb619c9ecb3",
+      "action": {
+        "action_id": "8ad93eb6d5da87c3c9737724c993791f",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:5d970e57e8bccb07fb023497a3388607",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": " Admin Grids",
+              "xpath": "//*[@id=\"admin_grid-head\"]",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "#admin_grid-link",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "id": "admin_grid-head",
+                "href": "#admin_grid-link",
+                "class": ""
+              },
+              "structure_hash": "5d970e57e8bccb07fb023497a3388607",
+              "content_hash": "3fa2a48706527f16af4276ac07f1c553"
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "summary": {
+    "total_nodes": 122,
+    "total_actions": 121,
+    "total_edges": 121
+  }
+}

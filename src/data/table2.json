@@ -1,0 +1,47 @@
+{
+  "caption": "Ablation study on depth, top-k, selector model, and retriever on the Reddit domain in WebArena. * denotes dense embedding mode.",
+  "columns": [
+    { "key": "group", "label": "Group", "align": "left" },
+    { "key": "depth", "label": "Depth", "align": "center" },
+    { "key": "topk", "label": "Top-k", "align": "center" },
+    { "key": "selector", "label": "Selector Model", "align": "left" },
+    { "key": "retriever", "label": "Retriever", "align": "left" },
+    { "key": "sr", "label": "SR(%)", "align": "center" }
+  ],
+  "sections": [
+    {
+      "title": "Depth Ablation",
+      "rows": [
+        { "group": "Depth", "depth": "1", "topk": "30", "selector": "Gemini-2.5-Flash", "retriever": "Jina-embedding-v4", "sr": "63.2" },
+        { "group": "", "depth": "2", "topk": "30", "selector": "Gemini-2.5-Flash", "retriever": "Jina-embedding-v4", "sr": "70.8" },
+        { "group": "", "depth": "3", "topk": "30", "selector": "Gemini-2.5-Flash", "retriever": "Jina-embedding-v4", "sr": "73.6" },
+        { "group": "", "depth": "4", "topk": "30", "selector": "Gemini-2.5-Flash", "retriever": "Jina-embedding-v4", "sr": "75.5", "isBest": true }
+      ]
+    },
+    {
+      "title": "Top-k Ablation",
+      "rows": [
+        { "group": "Top-k", "depth": "3", "topk": "10", "selector": "Gemini-2.5-Flash", "retriever": "Jina-embedding-v4", "sr": "71.7" },
+        { "group": "", "depth": "3", "topk": "20", "selector": "Gemini-2.5-Flash", "retriever": "Jina-embedding-v4", "sr": "73.6" },
+        { "group": "", "depth": "3", "topk": "30", "selector": "Gemini-2.5-Flash", "retriever": "Jina-embedding-v4", "sr": "73.6" },
+        { "group": "", "depth": "3", "topk": "40", "selector": "Gemini-2.5-Flash", "retriever": "Jina-embedding-v4", "sr": "75.5", "isBest": true }
+      ]
+    },
+    {
+      "title": "Selector Model Ablation",
+      "rows": [
+        { "group": "Selector", "depth": "3", "topk": "30", "selector": "GPT-4o", "retriever": "Jina-embedding-v4", "sr": "72.6" },
+        { "group": "", "depth": "3", "topk": "30", "selector": "Gemini-2.5-Flash", "retriever": "Jina-embedding-v4", "sr": "73.6" },
+        { "group": "", "depth": "3", "topk": "30", "selector": "Qwen3-VL-8B", "retriever": "Jina-embedding-v4", "sr": "75.5", "isBest": true }
+      ]
+    },
+    {
+      "title": "Retriever Ablation",
+      "rows": [
+        { "group": "Retriever", "depth": "3", "topk": "30", "selector": "Gemini-2.5-Flash", "retriever": "Jina-embedding-v4", "sr": "73.6", "isBest": true },
+        { "group": "", "depth": "3", "topk": "30", "selector": "Gemini-2.5-Flash", "retriever": "Jina-embedding-v4*", "sr": "67.0" },
+        { "group": "", "depth": "3", "topk": "30", "selector": "Gemini-2.5-Flash", "retriever": "Jina-clip-v2", "sr": "66.0" }
+      ]
+    }
+  ]
+}

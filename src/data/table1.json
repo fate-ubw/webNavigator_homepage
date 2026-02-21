@@ -1,0 +1,298 @@
+{
+  "columns": [
+    { "key": "method", "label": "Method", "align": "left" },
+    { "key": "model", "label": "Model", "align": "left" },
+    { "key": "actNum", "label": "Act #", "align": "center" },
+    { "key": "sr", "label": "SR(%)", "align": "center", "group": "webarena" },
+    { "key": "multisite", "label": "Multisite", "align": "center", "group": "webarena" },
+    { "key": "shopping", "label": "Shopping", "align": "center", "group": "webarena" },
+    { "key": "cms", "label": "CMS", "align": "center", "group": "webarena" },
+    { "key": "reddit", "label": "Reddit", "align": "center", "group": "webarena" },
+    { "key": "gitlab", "label": "GitLab", "align": "center", "group": "webarena" },
+    { "key": "map", "label": "Map", "align": "center", "group": "webarena" },
+    { "key": "mind2web", "label": "SR(%)", "align": "center", "group": "mind2web" }
+  ],
+  "sections": [
+    {
+      "title": "Baseline",
+      "rows": [
+        {
+          "method": "WebArena*",
+          "model": "GPT-4o",
+          "actNum": "12",
+          "sr": "21.1",
+          "multisite": "8.3",
+          "shopping": "24.6",
+          "cms": "20.3",
+          "reddit": "22.6",
+          "gitlab": "22.2",
+          "map": "18.4",
+          "mind2web": "-"
+        },
+        {
+          "method": "BrowserGym",
+          "model": "GPT-4o",
+          "actNum": "20",
+          "sr": "31.4",
+          "multisite": "-",
+          "shopping": "-",
+          "cms": "-",
+          "reddit": "-",
+          "gitlab": "-",
+          "map": "-",
+          "mind2web": "-"
+        }
+      ]
+    },
+    {
+      "title": "Paradigm 1: Online Exploratory Search",
+      "rows": [
+        {
+          "method": "Tree Search",
+          "model": "GPT-4o",
+          "actNum": "12",
+          "sr": "19.2",
+          "multisite": "-",
+          "shopping": "28.1",
+          "cms": "16.5",
+          "reddit": "10.5",
+          "gitlab": "13.3",
+          "map": "25.8",
+          "mind2web": "-"
+        },
+        {
+          "method": "Exact",
+          "model": "GPT-4o",
+          "actNum": "16",
+          "sr": "-",
+          "multisite": "-",
+          "shopping": "-",
+          "cms": "-",
+          "reddit": "-",
+          "gitlab": "23.5",
+          "map": "-",
+          "mind2web": "-"
+        },
+        {
+          "method": "Branch and Browse",
+          "model": "GPT-4o",
+          "actNum": "12",
+          "sr": "35.8",
+          "multisite": "18.8",
+          "shopping": "34.6",
+          "cms": "26.4",
+          "reddit": "50.9",
+          "gitlab": "36.7",
+          "map": "46.8",
+          "mind2web": "-"
+        },
+        {
+          "method": "WebPilot",
+          "model": "GPT-4o",
+          "actNum": "-",
+          "sr": "37.2",
+          "multisite": "-",
+          "shopping": "36.9",
+          "cms": "24.7",
+          "reddit": "65.1",
+          "gitlab": "39.4",
+          "map": "33.9",
+          "mind2web": "-"
+        },
+        {
+          "method": "Auto-Eval",
+          "model": "GPT-4-Preview",
+          "actNum": "12",
+          "sr": "20.2",
+          "multisite": "-",
+          "shopping": "-",
+          "cms": "-",
+          "reddit": "-",
+          "gitlab": "-",
+          "map": "-",
+          "mind2web": "-"
+        }
+      ]
+    },
+    {
+      "title": "Paradigm 2: Learned Internal Planning & World Models",
+      "rows": [
+        {
+          "method": "WebDreamer",
+          "model": "GPT-4o",
+          "actNum": "12",
+          "sr": "-",
+          "multisite": "-",
+          "shopping": "-",
+          "cms": "-",
+          "reddit": "-",
+          "gitlab": "-",
+          "map": "-",
+          "mind2web": "35.0"
+        },
+        {
+          "method": "WMA",
+          "model": "GPT-4o",
+          "actNum": "12",
+          "sr": "16.6",
+          "multisite": "-",
+          "shopping": "-",
+          "cms": "-",
+          "reddit": "-",
+          "gitlab": "-",
+          "map": "-",
+          "mind2web": "-"
+        },
+        {
+          "method": "SteP",
+          "model": "GPT-4-Turbo",
+          "actNum": "27",
+          "sr": "33.0",
+          "multisite": "-",
+          "shopping": "37.0",
+          "cms": "24.0",
+          "reddit": "59.0",
+          "gitlab": "32.0",
+          "map": "30.0",
+          "mind2web": "-"
+        },
+        {
+          "method": "Plan-and-Act",
+          "model": "Llama-70B†",
+          "actNum": "8",
+          "sr": "45.7",
+          "multisite": "-",
+          "shopping": "-",
+          "cms": "-",
+          "reddit": "-",
+          "gitlab": "-",
+          "map": "-",
+          "mind2web": "-"
+        },
+        {
+          "method": "Agent-E",
+          "model": "GPT-4o",
+          "actNum": "8",
+          "sr": "-",
+          "multisite": "-",
+          "shopping": "-",
+          "cms": "-",
+          "reddit": "-",
+          "gitlab": "-",
+          "map": "-",
+          "mind2web": "27.0"
+        },
+        {
+          "method": "AgentOccam",
+          "model": "GPT-4-Turbo",
+          "actNum": "8",
+          "sr": "43.1",
+          "multisite": "14.6",
+          "shopping": "40.6",
+          "cms": "45.6",
+          "reddit": "61.3",
+          "gitlab": "37.8",
+          "map": "46.8",
+          "mind2web": "-"
+        },
+        {
+          "method": "AgentOccam*",
+          "model": "GPT-4o",
+          "actNum": "8",
+          "sr": "42.9",
+          "multisite": "25.0",
+          "shopping": "33.7",
+          "cms": "46.7",
+          "reddit": "60.4",
+          "gitlab": "44.4",
+          "map": "40.4",
+          "mind2web": "-"
+        }
+      ]
+    },
+    {
+      "title": "Enterprise-Level Autonomous Agents",
+      "rows": [
+        {
+          "method": "CUGA",
+          "model": "-",
+          "actNum": "-",
+          "sr": "61.7",
+          "multisite": "35.4",
+          "shopping": "58.3",
+          "cms": "62.6",
+          "reddit": "75.5",
+          "gitlab": "61.7",
+          "map": "64.2",
+          "mind2web": "-",
+          "isEnterprise": true
+        }
+      ]
+    },
+    {
+      "title": "New Paradigm: Retrieve and Navigate",
+      "rows": [
+        {
+          "method": "WebNavigator (Ours)",
+          "model": "Qwen3-VL-32B",
+          "actNum": "6",
+          "sr": "47.8",
+          "multisite": "43.8",
+          "shopping": "44.9",
+          "cms": "45.1",
+          "reddit": "75.5",
+          "gitlab": "50.6",
+          "map": "44.0",
+          "mind2web": "39.7",
+          "isOurs": true,
+          "highlights": { "shopping": "second", "reddit": "second", "gitlab": "second" }
+        },
+        {
+          "method": "WebNavigator (Ours)",
+          "model": "GPT-4o",
+          "actNum": "6",
+          "sr": "49.9",
+          "multisite": "50.0",
+          "shopping": "44.4",
+          "cms": "48.6",
+          "reddit": "73.6",
+          "gitlab": "42.2",
+          "map": "51.4",
+          "mind2web": "41.3",
+          "isOurs": true,
+          "highlights": { "multisite": "second", "map": "second", "mind2web": "second" }
+        },
+        {
+          "method": "WebNavigator (Ours)",
+          "model": "Claude-Sonnet-4",
+          "actNum": "6",
+          "sr": "57.1",
+          "multisite": "50.0",
+          "shopping": "51.9",
+          "cms": "58.2",
+          "reddit": "85.9",
+          "gitlab": "50.0",
+          "map": "51.4",
+          "mind2web": "38.7",
+          "isOurs": true,
+          "highlights": { "sr": "second", "multisite": "second", "shopping": "best", "cms": "second", "reddit": "best", "map": "second" }
+        },
+        {
+          "method": "WebNavigator (Ours)",
+          "model": "Gemini-2.5-Pro",
+          "actNum": "6",
+          "sr": "60.2",
+          "multisite": "72.9",
+          "shopping": "38.5",
+          "cms": "66.5",
+          "reddit": "85.9",
+          "gitlab": "62.2",
+          "map": "53.2",
+          "mind2web": "52.7",
+          "isOurs": true,
+          "highlights": { "sr": "best", "multisite": "best", "cms": "best", "reddit": "best", "gitlab": "best", "map": "best", "mind2web": "best" }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,815 @@
+{
+  "nodes": {
+    "1f9143752af0b3311b0ec36deea4dd15": {
+      "node_id": "1f9143752af0b3311b0ec36deea4dd15",
+      "screen_path": "explore_screenshot_start.png",
+      "url": "http://webarena.map/#map=7/42.896/-75.108",
+      "can_arrival_directly": true
+    },
+    "307962b178c54b6e796c4194969e33f7": {
+      "node_id": "307962b178c54b6e796c4194969e33f7",
+      "screen_path": "explore_screenshot_0-0-1.png",
+      "url": "http://webarena.map/history#map=7/42.896/-73.180",
+      "can_arrival_directly": false
+    },
+    "7470ddf10f4390e7cf641c1a01b715e4": {
+      "node_id": "7470ddf10f4390e7cf641c1a01b715e4",
+      "screen_path": "explore_screenshot_0-0-2.png",
+      "url": "http://webarena.map/export#map=7/42.896/-73.180",
+      "can_arrival_directly": true
+    },
+    "49f020771867ade82310d9501ebdcf8c": {
+      "node_id": "49f020771867ade82310d9501ebdcf8c",
+      "screen_path": "explore_screenshot_0-0-3.png",
+      "url": "http://webarena.map/login?referer=%2F#map=7/42.896/-75.108",
+      "can_arrival_directly": true
+    },
+    "decc3048d90386e0e16a1d4affa35bb5": {
+      "node_id": "decc3048d90386e0e16a1d4affa35bb5",
+      "screen_path": "explore_screenshot_0-0-4.png",
+      "url": "http://webarena.map/user/new",
+      "can_arrival_directly": true
+    },
+    "e2f4372cc4ca91fd47d8fcb0245c67ac": {
+      "node_id": "e2f4372cc4ca91fd47d8fcb0245c67ac",
+      "screen_path": "explore_screenshot_0-0-6.png",
+      "url": "http://webarena.map/traces",
+      "can_arrival_directly": true
+    },
+    "1559f3bea907ea9dd58c1fd58a2f6b89": {
+      "node_id": "1559f3bea907ea9dd58c1fd58a2f6b89",
+      "screen_path": "explore_screenshot_0-0-7.png",
+      "url": "http://webarena.map/diary",
+      "can_arrival_directly": true
+    },
+    "73169ab5d60c9566e213b93a2f499e55": {
+      "node_id": "73169ab5d60c9566e213b93a2f499e55",
+      "screen_path": "explore_screenshot_0-0-8.png",
+      "url": "http://webarena.map/communities",
+      "can_arrival_directly": true
+    },
+    "7a0ffa401d831c3a238e689bfd5fc08e": {
+      "node_id": "7a0ffa401d831c3a238e689bfd5fc08e",
+      "screen_path": "explore_screenshot_0-0-9.png",
+      "url": "http://webarena.map/copyright",
+      "can_arrival_directly": true
+    },
+    "3dba0f16e77e20a911b912f264a52a0e": {
+      "node_id": "3dba0f16e77e20a911b912f264a52a0e",
+      "screen_path": "explore_screenshot_0-0-10.png",
+      "url": "http://webarena.map/help",
+      "can_arrival_directly": true
+    },
+    "0253010cee9f8dda5e0eff7b0692f8d9": {
+      "node_id": "0253010cee9f8dda5e0eff7b0692f8d9",
+      "screen_path": "explore_screenshot_0-0-11.png",
+      "url": "http://webarena.map/about",
+      "can_arrival_directly": true
+    },
+    "d00c396651859f5bbf28edb3f70c25e9": {
+      "node_id": "d00c396651859f5bbf28edb3f70c25e9",
+      "screen_path": "explore_screenshot_0-0-18.png",
+      "url": "http://webarena.map/directions",
+      "can_arrival_directly": true
+    },
+    "b3ea86137bfb42fd654413847e127eee": {
+      "node_id": "b3ea86137bfb42fd654413847e127eee",
+      "screen_path": "explore_screenshot_0-0-19.png",
+      "url": "http://webarena.map/#map=8/42.896/-75.108",
+      "can_arrival_directly": false
+    },
+    "6c94b42b6bd4a1f450639f54e34115b8": {
+      "node_id": "6c94b42b6bd4a1f450639f54e34115b8",
+      "screen_path": "explore_screenshot_0-0-20.png",
+      "url": "http://webarena.map/#map=6/42.896/-75.108",
+      "can_arrival_directly": false
+    },
+    "482f2fab42eae577fe0601196f5ff56e": {
+      "node_id": "482f2fab42eae577fe0601196f5ff56e",
+      "screen_path": "explore_screenshot_0-0-21.png",
+      "url": "http://webarena.map/#map=7/42.896/-76.476",
+      "can_arrival_directly": false
+    },
+    "cda75291ddca9b88d862349db792c46a": {
+      "node_id": "cda75291ddca9b88d862349db792c46a",
+      "screen_path": "explore_screenshot_0-0-22.png",
+      "url": "http://webarena.map/#map=7/42.896/-76.476",
+      "can_arrival_directly": false
+    },
+    "033a5d6d744a4b6fc01856002999f7cb": {
+      "node_id": "033a5d6d744a4b6fc01856002999f7cb",
+      "screen_path": "explore_screenshot_0-0-23.png",
+      "url": "http://webarena.map/#map=7/42.896/-76.476",
+      "can_arrival_directly": false
+    },
+    "a484b543a32e54f7332d3b536bfe1673": {
+      "node_id": "a484b543a32e54f7332d3b536bfe1673",
+      "screen_path": "explore_screenshot_0-0-24.png",
+      "url": "http://webarena.map/#map=7/42.896/-75.108",
+      "can_arrival_directly": false
+    },
+    "74fa6fb37b8876874998f79fedc219ed": {
+      "node_id": "74fa6fb37b8876874998f79fedc219ed",
+      "screen_path": "explore_screenshot_0-0-25.png",
+      "url": "http://webarena.map/#map=7/42.896/-75.108",
+      "can_arrival_directly": false
+    },
+    "c81626e75cb3b1d5bfa769a301897936": {
+      "node_id": "c81626e75cb3b1d5bfa769a301897936",
+      "screen_path": "explore_screenshot_0-0-29.png",
+      "url": "http://webarena.map/search?whereami=1&query=42.896%2C-75.108#map=7/42.896/-75.103",
+      "can_arrival_directly": false
+    }
+  },
+  "edges": [
+    {
+      "from_node_id": "1f9143752af0b3311b0ec36deea4dd15",
+      "to_node_id": "307962b178c54b6e796c4194969e33f7",
+      "action": {
+        "action_id": "898d2112ee37dcccd9ffab18704e271c",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:621c3d13622a32ec27558386db6cf52e",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "History",
+              "xpath": "//*[@id=\"history_tab\"]",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "http://webarena.map/history#map=7/42.896/-75.108",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "class": "btn btn-outline-primary geolink flex-grow-1 current_page_class(history_path)",
+                "id": "history_tab",
+                "href": "http://webarena.map/history#map=7/42.896/-75.108"
+              },
+              "structure_hash": "621c3d13622a32ec27558386db6cf52e",
+              "content_hash": "52248c98bd822773323023182cea38d6"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "1f9143752af0b3311b0ec36deea4dd15",
+      "to_node_id": "7470ddf10f4390e7cf641c1a01b715e4",
+      "action": {
+        "action_id": "49353c555d54832442088fbfb44013f7",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:e4aaf51a587707f05cdd406cf7449d09",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "Export",
+              "xpath": "//*[@id=\"export_tab\"]",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "http://webarena.map/export#map=7/42.896/-75.108",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "class": "btn btn-outline-primary geolink current_page_class(export_path)",
+                "id": "export_tab",
+                "href": "http://webarena.map/export#map=7/42.896/-75.108"
+              },
+              "structure_hash": "e4aaf51a587707f05cdd406cf7449d09",
+              "content_hash": "d7a85e7f5bd3f9c6ffb7f5630c206912"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "1f9143752af0b3311b0ec36deea4dd15",
+      "to_node_id": "49f020771867ade82310d9501ebdcf8c",
+      "action": {
+        "action_id": "2118845b60a326a650c92efdd3c34678",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:d14aed1a44777485bc7bf38ebeb4f6cd",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "Log In",
+              "xpath": "/html/body/header/nav[2]/div/a[1]",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "http://webarena.map/login?referer=%2F#map=7/42.896/-75.108",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "class": "geolink btn btn-outline-secondary",
+                "href": "http://webarena.map/login?referer=%2F#map=7/42.896/-75.108"
+              },
+              "structure_hash": "d14aed1a44777485bc7bf38ebeb4f6cd",
+              "content_hash": "244769d60764054e7fb5c4f57b00ebeb"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "1f9143752af0b3311b0ec36deea4dd15",
+      "to_node_id": "decc3048d90386e0e16a1d4affa35bb5",
+      "action": {
+        "action_id": "d3862e5ba12239354f7417c3a497ecaf",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:ce675cfbbd9649900056dd7823152a69",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "Sign Up",
+              "xpath": "/html/body/header/nav[2]/div/a[2]",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "/user/new",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "class": "btn btn-outline-secondary",
+                "href": "/user/new"
+              },
+              "structure_hash": "ce675cfbbd9649900056dd7823152a69",
+              "content_hash": "078e7127d8ec482645e0a19031c4f84f"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "1f9143752af0b3311b0ec36deea4dd15",
+      "to_node_id": "e2f4372cc4ca91fd47d8fcb0245c67ac",
+      "action": {
+        "action_id": "bb84f606645e4436ca56d4f09ae0a458",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:1f4477cd5b19eaa6bdf29477859718e8",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "GPS Traces",
+              "xpath": "/html/body/header/nav[2]/ul/li[1]/a",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "/traces",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "class": "nav-link",
+                "href": "/traces"
+              },
+              "structure_hash": "1f4477cd5b19eaa6bdf29477859718e8",
+              "content_hash": "587878146b51e48fdbda9cd133af4096"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "1f9143752af0b3311b0ec36deea4dd15",
+      "to_node_id": "1559f3bea907ea9dd58c1fd58a2f6b89",
+      "action": {
+        "action_id": "f8c680fe08621255e3d5eea00827ff81",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:e6a3d90f730a4ffc1120f51eab46e6c0",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "User Diaries",
+              "xpath": "/html/body/header/nav[2]/ul/li[2]/a",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "/diary",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "class": "nav-link",
+                "href": "/diary"
+              },
+              "structure_hash": "e6a3d90f730a4ffc1120f51eab46e6c0",
+              "content_hash": "16f2cd2635c65a7037de156dfd31eeff"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "1f9143752af0b3311b0ec36deea4dd15",
+      "to_node_id": "73169ab5d60c9566e213b93a2f499e55",
+      "action": {
+        "action_id": "59b7a4bc5610be039da0b2eb7da3abc0",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:2747a70f566bb6d177e143f0f511fa0c",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "Communities",
+              "xpath": "/html/body/header/nav[2]/ul/li[3]/a",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "/communities",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "class": "nav-link",
+                "href": "/communities"
+              },
+              "structure_hash": "2747a70f566bb6d177e143f0f511fa0c",
+              "content_hash": "9eb8a3914b4f5b2eb3a2860ff8cb237d"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "1f9143752af0b3311b0ec36deea4dd15",
+      "to_node_id": "7a0ffa401d831c3a238e689bfd5fc08e",
+      "action": {
+        "action_id": "6639dfb88aea009050b2ab310c1334de",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:44e8846518bcd1685f273db92249815f",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "Copyright",
+              "xpath": "/html/body/header/nav[2]/ul/li[4]/a",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "/copyright",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "class": "nav-link",
+                "href": "/copyright"
+              },
+              "structure_hash": "44e8846518bcd1685f273db92249815f",
+              "content_hash": "112b61616c9b966703e0ac8af7e9372c"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "1f9143752af0b3311b0ec36deea4dd15",
+      "to_node_id": "3dba0f16e77e20a911b912f264a52a0e",
+      "action": {
+        "action_id": "b5273e46ab01f8cbaa3ce35e537c6a0e",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:f6058655346f749f5b714eea7c07db3c",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "Help",
+              "xpath": "/html/body/header/nav[2]/ul/li[5]/a",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "/help",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "class": "nav-link",
+                "href": "/help"
+              },
+              "structure_hash": "f6058655346f749f5b714eea7c07db3c",
+              "content_hash": "18034c28ee1ac4a5e19f25d2b5c58e2c"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "1f9143752af0b3311b0ec36deea4dd15",
+      "to_node_id": "0253010cee9f8dda5e0eff7b0692f8d9",
+      "action": {
+        "action_id": "fbf3a6b57904f3f3bca452912cdf69e5",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:d926512736ebaadeb8a5f7b370cc3269",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "About",
+              "xpath": "/html/body/header/nav[2]/ul/li[6]/a",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "/about",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "class": "nav-link",
+                "href": "/about"
+              },
+              "structure_hash": "d926512736ebaadeb8a5f7b370cc3269",
+              "content_hash": "01edcf00056d95b15985b2b9c6d6caa1"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "1f9143752af0b3311b0ec36deea4dd15",
+      "to_node_id": "d00c396651859f5bbf28edb3f70c25e9",
+      "action": {
+        "action_id": "f33582c76fca79d7ce4833b0574ae655",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:e6e8e7f134e4ab86f3035e0baf8c6a52",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "Find directions between two points",
+              "xpath": "/html/body/div/div[1]/div[1]/form[1]/div/div[2]/a",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "/directions",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "class": "btn btn-sm btn-primary switch_link",
+                "title": "Find directions between two points",
+                "href": "/directions"
+              },
+              "structure_hash": "e6e8e7f134e4ab86f3035e0baf8c6a52",
+              "content_hash": "d39735f2e7f45255f59b97231066b603"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "1f9143752af0b3311b0ec36deea4dd15",
+      "to_node_id": "b3ea86137bfb42fd654413847e127eee",
+      "action": {
+        "action_id": "f9eed5582edc7573dbc7a48a12b60ea3",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:617af68769329e0b5365e3d2c37bb900",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "Zoom In",
+              "xpath": "/html/body/div/div[3]/div[2]/div[2]/div[1]/a[1]",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "#",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "class": "control-button zoomin control-button-first",
+                "href": "#",
+                "title": "",
+                "data-bs-original-title": "Zoom In",
+                "aria-label": "Zoom In"
+              },
+              "structure_hash": "617af68769329e0b5365e3d2c37bb900",
+              "content_hash": "9c99ea11a7b78853b2a3838fd1a31c92"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "1f9143752af0b3311b0ec36deea4dd15",
+      "to_node_id": "6c94b42b6bd4a1f450639f54e34115b8",
+      "action": {
+        "action_id": "ebbdc99eb202511892f8d92cdeb94098",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:d29902c29682da8f4fb419e02ba57a0d",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "Zoom Out",
+              "xpath": "/html/body/div/div[3]/div[2]/div[2]/div[1]/a[2]",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "#",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "class": "control-button zoomout",
+                "href": "#",
+                "title": "",
+                "data-bs-original-title": "Zoom Out",
+                "aria-label": "Zoom Out"
+              },
+              "structure_hash": "d29902c29682da8f4fb419e02ba57a0d",
+              "content_hash": "9c99ea11a7b78853b2a3838fd1a31c92"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "1f9143752af0b3311b0ec36deea4dd15",
+      "to_node_id": "482f2fab42eae577fe0601196f5ff56e",
+      "action": {
+        "action_id": "855eca57357cea7a936d46e4b68e5057",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:b085f5b4f762a9adaeb3cfe6434a18d6",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "Layers",
+              "xpath": "/html/body/div/div[3]/div[2]/div[2]/div[3]/a",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "#",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "class": "control-button control-button-first",
+                "href": "#",
+                "title": "",
+                "data-bs-original-title": "Layers",
+                "aria-label": "Layers"
+              },
+              "structure_hash": "b085f5b4f762a9adaeb3cfe6434a18d6",
+              "content_hash": "9c99ea11a7b78853b2a3838fd1a31c92"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "1f9143752af0b3311b0ec36deea4dd15",
+      "to_node_id": "cda75291ddca9b88d862349db792c46a",
+      "action": {
+        "action_id": "b0e3209f51984b15fb0d01bf8a9da30e",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:66a96282f71ec9abacdcc1b7ca92d44c",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "",
+              "xpath": "/html/body/div/div[3]/div[2]/div[2]/div[4]/a",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "#",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "class": "control-button",
+                "href": "#",
+                "data-bs-original-title": "Map Key"
+              },
+              "structure_hash": "66a96282f71ec9abacdcc1b7ca92d44c",
+              "content_hash": "9c99ea11a7b78853b2a3838fd1a31c92"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "1f9143752af0b3311b0ec36deea4dd15",
+      "to_node_id": "033a5d6d744a4b6fc01856002999f7cb",
+      "action": {
+        "action_id": "f7d47f52439e044abb09b1e04e75daaa",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:bc6ee9fcf3c9aa482a7e6d42e5da2410",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "Share",
+              "xpath": "/html/body/div/div[3]/div[2]/div[2]/div[5]/a",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "#",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "class": "control-button control-button-last",
+                "href": "#",
+                "title": "",
+                "data-bs-original-title": "Share",
+                "aria-label": "Share"
+              },
+              "structure_hash": "bc6ee9fcf3c9aa482a7e6d42e5da2410",
+              "content_hash": "9c99ea11a7b78853b2a3838fd1a31c92"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "1f9143752af0b3311b0ec36deea4dd15",
+      "to_node_id": "a484b543a32e54f7332d3b536bfe1673",
+      "action": {
+        "action_id": "ab0a108e6b841ec8f65aec6e3e392a3b",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:fb7da1dc53e188655c889a62a3d61e40",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "",
+              "xpath": "/html/body/div/div[3]/div[2]/div[2]/div[6]/a",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "#",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "class": "control-button control-button-first control-button-last disabled",
+                "href": "#",
+                "data-bs-original-title": "Zoom in to add a note to the map"
+              },
+              "structure_hash": "fb7da1dc53e188655c889a62a3d61e40",
+              "content_hash": "9c99ea11a7b78853b2a3838fd1a31c92"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "1f9143752af0b3311b0ec36deea4dd15",
+      "to_node_id": "74fa6fb37b8876874998f79fedc219ed",
+      "action": {
+        "action_id": "e5492da0ba5e371a876e3e63a5aab4d2",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:eab710596814f3ecc8315474c861404f",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "",
+              "xpath": "/html/body/div/div[3]/div[2]/div[2]/div[7]/a",
+              "text_content": "",
+              "description": "",
+              "placeholder": null,
+              "href": "#",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "class": "control-button control-button-first control-button-last disabled",
+                "href": "#",
+                "data-bs-original-title": "Zoom in to query features"
+              },
+              "structure_hash": "eab710596814f3ecc8315474c861404f",
+              "content_hash": "9c99ea11a7b78853b2a3838fd1a31c92"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from_node_id": "1f9143752af0b3311b0ec36deea4dd15",
+      "to_node_id": "c81626e75cb3b1d5bfa769a301897936",
+      "action": {
+        "action_id": "a77e70718902d09615f7adfb46fcbcae",
+        "action_entries": [
+          {
+            "action_type": "click",
+            "action_object_type": "StatefulTreeNode",
+            "action_object_identifier": "structure_hash:bbe84bf503060a45d6dfaf37f5e28b01",
+            "action_parameters": {},
+            "target_node_info": {
+              "tag_name": "a",
+              "role": "link",
+              "accessible_name": "Where is this?",
+              "xpath": "/html/body/div/div[1]/div[1]/form[1]/div/div[1]/div/div[1]/a",
+              "text_content": "",
+              "description": "Describe the current location using the search engine",
+              "placeholder": null,
+              "href": "#",
+              "value": null,
+              "is_enabled": true,
+              "is_readonly": false,
+              "is_focusable": true,
+              "attributes": {
+                "class": "describe_location position-absolute",
+                "title": "Describe the current location using the search engine",
+                "href": "#"
+              },
+              "structure_hash": "bbe84bf503060a45d6dfaf37f5e28b01",
+              "content_hash": "36d18d7df7c3069fa3f98e3280de2a40"
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "summary": {
+    "total_nodes": 20,
+    "total_actions": 19,
+    "total_edges": 19
+  }
+}

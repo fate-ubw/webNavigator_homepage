@@ -1,0 +1,95 @@
+\newcommand{\cellmb}{\cellcolor[HTML]{F5E9DD}}   % WebArena Header (Dirty Orange)
+% \newcommand{\cellml}{\cellcolor[HTML]{FFE599}}   % WebArena Header (Orange)
+\newcommand{\cellml}{\cellcolor[HTML]{D6EAF8}}   % Online-Mind2Web Header (Blue)
+% \newcommand{\cellmb}{\cellcolor[HTML]{AAD5EE}}
+
+\newcommand{\cellmbb}{\cellcolor[HTML]{FCF4F0}} % WebArena Body (Dirty Light Orange)
+% \newcommand{\cellmll}{\cellcolor[HTML]{FFF7E0}} % WebArena Body (Light Orange)
+\newcommand{\cellmll}{\cellcolor[HTML]{EBF5FB}} % Online-Mind2Web Body (Light Blue)
+
+\begin{table*}[!t]
+\centering
+\small
+\caption{
+Main results on WebArena and Online-Mind2Web. Model denotes the base LLM or VLM for action generation. Act \# indicates the number of actions. Success rate (SR) for different website domains. \textbf{Bold }and \underline{underlined} values indicate the best and second-best performance among non-enterprise agents. Methods marked with $*$ are our reproduced results. Models marked with $\dagger$ are finetuned.
+% SR$_{\text{Lite}}$ denotes results evaluated on the WebArena-Lite \cite{webarena-Lite2025}.
+}
+\renewcommand{\arraystretch}{1.2}
+\setlength\tabcolsep{3pt}
+
+\resizebox{1\linewidth}{!}{
+\begin{tabular}{
+    l % Method
+    l % Model
+    c % Act #
+    c c c c c c c % WebArena (7 cols)
+    c             % Online-Mind2Web (1 col)
+}
+
+    \toprule
+    
+    \multirow{4}{*}{\textbf{Method}} & 
+    \multirow{4}{*}{\textbf{Model}} & 
+    \multirow{4}{*}{\textbf{Act \#}} & 
+    \multicolumn{7}{c}{\cellmb \bf WebArena} & 
+    \multicolumn{1}{c}{\cellml \bf Online-Mind2Web}\\
+
+    \cmidrule(lr){4-10} \cmidrule(lr){11-11}
+    
+    % Header Row with Icons
+    ~ & ~ & ~ & 
+    \cellmbb \raisebox{0.75em}{\textbf{SR(\%)}} & 
+    \cellmbb \raisebox{0.75em}{\textbf{Multisite}} & 
+    \shortstack{\includegraphics[height=1.5em]{figs/onestopshop.pdf} \\ \textbf{Shopping}} & 
+    \shortstack{\includegraphics[height=1.5em]{figs/cms.pdf} \\ \textbf{CMS}} & 
+    \shortstack{\includegraphics[height=1.5em]{figs/reddit.pdf} \\ \textbf{Reddit}} & 
+    \shortstack{\includegraphics[height=1.5em]{figs/gitlab.pdf} \\ \textbf{GitLab}} & 
+    \shortstack{\includegraphics[height=1.5em]{figs/map.pdf} \\ \textbf{Map}} & 
+    \cellmll  \raisebox{0.75em}{\textbf{SR(\%)}} \\
+    
+    % ================= BASELINE =================
+    \midrule
+    Webarena$^*$ \cite{webarena2023}     & GPT-4o & 12 & \cellmbb 21.1 & \cellmbb 8.3 & 24.6 & 20.3 & 22.6 & 22.2 & 18.4 & \cellmll - \\
+    Browsergym \cite{browsergym2025}     & GPT-4o & 20 & \cellmbb 31.4 & \cellmbb - &  - & - & - &- &-  & \cellmll - \\
+    
+    % ================= Paradigm 1 =================
+    \midrule
+    \multicolumn{11}{c}{ \textit{Paradigm 1: Online Exploratory Search} }  \\ \midrule
+    
+    Tree search \cite{treesearch2025}      & GPT-4o        & 12 & \cellmbb 19.2 & \cellmbb -     & 28.1 & 16.5 & 10.5 & 13.3 & 25.8 & \cellmll - \\
+    Exact \cite{exact2025}            & GPT-4o        & 16 & \cellmbb -     & \cellmbb -     & -     & -     & -     & 23.5    & -     & \cellmll - \\
+    Branch and browse \cite{branch-and-browse2025} & GPT-4o        & 12 & \cellmbb 35.8  & \cellmbb 18.8  & 34.6  & 26.4  & 50.9  & 36.7  & 46.8  & \cellmll - \\
+    WebPilot  \cite{webploit2025}        & GPT-4o        & -  & \cellmbb 37.2  & \cellmbb -     & 36.9  & 24.7  & 65.1  & 39.4  & 33.9  & \cellmll - \\
+    Auto-Eval  \cite{auto-eval2024}       & GPT-4-Preview & 12 & \cellmbb 20.2  & \cellmbb -     & -     & -     & -     & -     & -     & \cellmll - \\
+    
+    % ================= Paradigm 2 =================Learned Internal Planning and World Models.
+    \midrule
+    \multicolumn{11}{c}{ \textit{Paradigm 2: Learned Internal Planning \& World Models} }   \\ \midrule
+     WebDreamer   \cite{webdreamer2025}     & GPT-4o             & 12 & \cellmbb -     & \cellmbb -    & -     & -     & -     & -     & -     & \cellmll 35.0 \\
+    WMA  \cite{worldmodelagent2025}   & GPT-4o             & 12 & \cellmbb 16.6  & \cellmbb -    & -     & -     & -     & -     & -     & \cellmll - \\
+    SteP \cite{step2023}  & GPT-4-Turbo        & 27 & \cellmbb 33.0    & \cellmbb -    & 37.0    & 24.0    & 59.0    & 32.0    & 30.0    & \cellmll - \\
+    % Plan-and-Act \cite{plan-and-act2025}    & QWQ-32B            & 8  & \cellmbb 48.2  & \cellmbb -    & -     & -     & -     & -     & -     & \cellmll - \\
+    Plan-and-Act  \cite{plan-and-act2025}    & Llama-70B$^{\dagger}$         & 8  & \cellmbb 45.7   & \cellmbb -    & -     & -     & -     & -     & -     & \cellmll - \\
+    Agent-e \cite{AgentE2024}    & GPT-4o          & 8  & \cellmbb -  & \cellmbb -    & -     & -     & -     & -     & -     & \cellmll 27.0 \\
+    AgentOccam  \cite{agentoccam2025}   & GPT-4-Turbo             & 8  & \cellmbb 43.1 & \cellmbb 14.6 & 40.6 & 45.6 & 61.3 & 37.8 & 46.8 & \cellmll - \\
+    AgentOccam$^*$  \cite{agentoccam2025}   & GPT-4o             & 8  & \cellmbb 42.9 & \cellmbb 25.0 & 33.7 & 46.7 & 60.4 & 44.4 & 40.4 & \cellmll - \\
+    
+    % ================= Enterprise-Level =================
+    \midrule
+    \multicolumn{11}{c}{ \textit{Enterprise-Level Autonomous Agents} }   \\ \midrule
+    % CUGA 不参与排序，保持普通字体
+    CUGA \cite{cuga} & - & - & \cellmbb 61.7 & \cellmbb 35.4 & 58.3 & 62.6 & 75.5 & 61.7 & 64.2 & \cellmll - \\
+    
+    % ================= New Paradigm =================
+    \midrule
+    \multicolumn{11}{c}{ \textit{New Paradigm: Retrieve and Navigate} }   \\ \midrule
+    WebNavigator (Ours)     & Qwen3-VL-32B-Instruct            & 6  & \cellmbb 47.8             & \cellmbb 43.8 & \underline{44.9} & 45.1             & \underline{75.5} & \underline{50.6}& 44.0  & \cellmll 39.7 \\
+    WebNavigator (Ours)     & GPT-4o              & 6  & \cellmbb 49.9            & \cellmbb \underline{50.0} & 44.4 & 48.6             & 73.6 & 42.2 & \underline{51.4}  & \cellmll \underline{41.3} \\
+    WebNavigator (Ours)     & Claude-Sonnet-4     & 6  & \cellmbb \underline{57.1} & \cellmbb \underline{50.0} & \textbf{51.9}    & \underline{58.2} & \textbf{85.9} & 50.0 & \underline{51.4}  & \cellmll 38.7 \\
+    WebNavigator (Ours)     & Gemini-2.5-Pro      & 6  & \cellmbb \textbf{60.2}    & \cellmbb \textbf{72.9}    & 38.5             & \textbf{66.5}    & \textbf{85.9} & \textbf{62.2} & \textbf{53.2}  & \cellmll \textbf{52.7} \\
+    \bottomrule
+    
+\end{tabular}
+}\label{tab:exp1_results}
+
+\end{table*}

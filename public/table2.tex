@@ -1,0 +1,47 @@
+\begin{table}[t]
+    \centering
+    \scriptsize
+    \caption{Ablation study on depth, top-$k$, selector model, and retriever on the Reddit domain in WebArena. $*$ denotes dense embedding mode.}
+    \label{tab:exp3}
+    \renewcommand{\arraystretch}{1.15}
+    \setlength\tabcolsep{3.8pt}
+    \begin{tabular}{lccccc}
+    \toprule
+    \textbf{Group} & Depth & Top-$k$ & Selector Model & Retriever & SR(\%) \\
+    \midrule
+    % ===================== Depth =====================
+    \multicolumn{6}{c}{\textit{Depth Ablation}} \\
+    \midrule
+    \multirow{4}{*}{Depth} 
+          & 1 & 30 & Gemini-2.5-Flash & Jina-embedding-v4 & 63.2 \\
+          & 2 & 30 & Gemini-2.5-Flash & Jina-embedding-v4 & 70.8 \\
+          & 3 & 30 & Gemini-2.5-Flash & Jina-embedding-v4 & 73.6 \\
+          & 4 & 30 & Gemini-2.5-Flash & Jina-embedding-v4 & 75.5 \\
+    \midrule
+    % ===================== Top-k =====================
+    \multicolumn{6}{c}{\textit{Top-$k$ Ablation }} \\
+    \midrule
+    \multirow{4}{*}{Top-$k$}
+            & 3 & 10 & Gemini-2.5-Flash & Jina-embedding-v4 & 71.7 \\
+            & 3 & 20 & Gemini-2.5-Flash & Jina-embedding-v4 & 73.6 \\
+            & 3 & 30 & Gemini-2.5-Flash & Jina-embedding-v4 & 73.6 \\
+            & 3 & 40 & Gemini-2.5-Flash & Jina-embedding-v4 & 75.5 \\
+    \midrule
+    % ===================== Model =====================
+    \multicolumn{6}{c}{\textit{Selector Model Ablation}} \\
+    \midrule
+    \multirow{3}{*}{Selector}
+    & 3 & 30 & GPT-4o                       & Jina-embedding-v4 & 72.6 \\
+    & 3 & 30 & Gemini-2.5-Flash             & Jina-embedding-v4 & 73.6 \\
+    & 3 & 30 & Qwen3-VL-8B                  & Jina-embedding-v4 & 75.5 \\
+    \midrule
+    % ===================== Retriever =====================
+    \multicolumn{6}{c}{\textit{Retriever Ablation}} \\
+    \midrule
+    \multirow{3}{*}{Retriever} 
+              & 3 & 30 & Gemini-2.5-Flash & Jina-embedding-v4     & 73.6 \\
+              & 3 & 30 & Gemini-2.5-Flash & Jina-embedding-v4$^*$ & 67.0 \\
+              & 3 & 30 & Gemini-2.5-Flash & Jina-clip-v2          & 66.0 \\
+    \bottomrule
+    \end{tabular}
+    \end{table}
