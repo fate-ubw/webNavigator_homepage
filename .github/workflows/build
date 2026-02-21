@@ -1,36 +1,68 @@
-# This is a basic workflow to help you get started with Actions
+# 工作流程名称
+name: Build and Deploy Vite Project to Pages
 
-name: CI
-
-# Controls when the workflow will run
+# 触发工作流程的事件
 on:
-  # Triggers the workflow on push or pull request events but only for the "main" branch
+  # 1. 当代码推送到 main 分支时触发
   push:
-    branches: [ "main" ]
-  pull_request:
-    branches: [ "main" ]
-
-  # Allows you to run this workflow manually from the Actions tab
+    branches:
+      - main
+  # 2. 允许你在 Actions 页面手动触发
   workflow_dispatch:
 
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+# 为工作流程作业设置权限
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# 设置并发策略，确保一次只有一个部署在运行
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
+
+# 定义工作任务
 jobs:
-  # This workflow contains a single job called "build"
-  build:
-    # The type of runner that the job will run on
+  deploy:
+    # 设置部署环境
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    # 指定运行的虚拟机环境
     runs-on: ubuntu-latest
-
-    # Steps represent a sequence of tasks that will be executed as part of the job
+    # 定义步骤
     steps:
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/checkout@v4
+      # 第1步：检出你的代码
+      - name: Checkout
+        uses: actions/checkout@v4
 
-      # Runs a single command using the runners shell
-      - name: Run a one-line script
-        run: echo Hello, world!
+      # 第2步：设置 Node.js 环境
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20 # 你可以根据你的项目更改 Node.js 版本
+          cache: 'npm' # 缓存 npm 依赖，加快后续构建速度
 
-      # Runs a set of commands using the runners shell
-      - name: Run a multi-line script
-        run: |
-          echo Add other actions to build,
-          echo test, and deploy your project.
+      # 第3步：安装项目依赖
+      - name: Install dependencies
+        run: npm install
+
+      # 第4步：构建项目
+      - name: Build
+        run: npm run build # 这个命令会执行 package.json 中 "build" 脚本
+
+      # 第5步：配置 Github Pages
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+
+      # 第6步：上传构建产物
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          # 指定要上传的构建产物目录，Vite 默认为 'dist'
+          path: './dist'
+
+      # 第7步：部署到 Github Pages
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
