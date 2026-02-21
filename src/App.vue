@@ -16,9 +16,9 @@ import FooterSection from './components/FooterSection.vue'
         <span class="font-bold text-xl text-blue-600">WebNavigator</span>
         <div class="flex gap-6 text-sm">
           <a href="#abstract" class="text-gray-600 hover:text-blue-600 transition-colors">Abstract</a>
+          <a href="#visualization" class="text-gray-600 hover:text-blue-600 transition-colors">Visualization</a>
           <a href="#method" class="text-gray-600 hover:text-blue-600 transition-colors">Method</a>
           <a href="#results" class="text-gray-600 hover:text-blue-600 transition-colors">Results</a>
-          <a href="#visualization" class="text-gray-600 hover:text-blue-600 transition-colors">Visualization</a>
           <a href="#citation" class="text-gray-600 hover:text-blue-600 transition-colors">Citation</a>
         </div>
       </div>
@@ -28,9 +28,9 @@ import FooterSection from './components/FooterSection.vue'
     <main class="pt-16">
       <HeroSection />
       <AbstractSection />
+      <VisualizationSection />
       <MethodSection />
       <ResultsSection />
-      <VisualizationSection />
       <CitationSection />
     </main>
 

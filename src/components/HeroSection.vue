@@ -11,7 +11,7 @@ const authors = [
 ]
 
 const links = [
-  { name: 'Paper', icon: '📄', url: '#', color: 'bg-red-500 hover:bg-red-600 text-white' },
+  // { name: 'Paper', icon: '📄', url: '#', color: 'bg-red-500 hover:bg-red-600 text-white' },
   { name: 'arXiv', icon: '📚', url: '#', color: 'bg-orange-500 hover:bg-orange-600 text-white' },
   { name: 'Code', icon: '💻', url: '#', color: 'bg-gray-800 hover:bg-gray-900 text-white' },
   { name: 'Visualization', icon: '🎮', url: '#visualization', color: 'bg-blue-500 hover:bg-blue-600 text-white' },
