@@ -2,12 +2,12 @@
 const BASE_URL = import.meta.env.BASE_URL
 
 const authors = [
-  { name: 'Xuanwang Zhang', url: '#' },
-  { name: 'Yuteng Han', url: '#' },
-  { name: 'Jinnan Qi', url: '#' },
-  { name: 'Mulong Xie', url: '#' },
-  { name: 'Zhen Wu', url: '#' },
-  { name: 'Xinyu Dai', url: '#' },
+  { name: 'Xuanwang Zhang', url: '#', aff: '1,2,3', mark: '*' },
+  { name: 'Yuteng Han', url: '#', aff: '1,2', mark: '*' },
+  { name: 'Jinnan Qi', url: '#', aff: '1,2' },
+  { name: 'Mulong Xie', url: '#', aff: '3' },
+  { name: 'Zhen Wu', url: '#', aff: '1,2', mark: '†' },
+  { name: 'Xinyu Dai', url: '#', aff: '1,2' },
 ]
 
 const links = [
@@ -38,12 +38,19 @@ const links = [
       <div class="mb-8">
         <p class="text-lg text-gray-700">
           <template v-for="(author, index) in authors" :key="author.name">
-            <a :href="author.url" class="hover:text-blue-600 transition-colors">
+            <a :href="author.url" class="font-bold hover:text-blue-600 transition-colors">
               {{ author.name }}
+              <sup class="text-sm align-super">{{ author.aff }}<span v-if="author.mark">{{ author.mark }}</span></sup>
             </a>
             <span v-if="index < authors.length - 1">, </span>
           </template>
         </p>
+        <div class="mt-3 space-y-1 text-base text-gray-600">
+          <p><sup>1</sup> National Key Laboratory for Novel Software Technology, Nanjing University, China</p>
+          <p><sup>2</sup> School of Artificial Intelligence, Nanjing University, China</p>
+          <p><sup>3</sup> Fellou AI</p>
+          <p class="pt-1 text-ms text-gray-500"><sup>*</sup> Equal contribution. <sup>†</sup> Corresponding author.</p>
+        </div>
       </div>
 
       <!-- Links -->

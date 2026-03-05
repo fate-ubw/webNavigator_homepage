@@ -119,7 +119,7 @@ const phases = [
 
       <!-- Key Insight -->
       <div class="mt-10 p-6 bg-blue-50 border-l-4 border-blue-500 rounded-r-xl">
-        <h3 class="font-semibold text-blue-900 mb-2">Key Insight: Capability Aggregation</h3>
+        <h3 class="font-semibold text-blue-900 mb-2">Agent Design: Capability Aggregation</h3>
         <p class="text-blue-800">
           WebNavigator encapsulates the entire Retrieve-Reason-Teleport workflow into a single unified action: 
           <code class="bg-blue-100 px-2 py-0.5 rounded text-sm">navigate(domain, query)</code>. 

@@ -12,8 +12,16 @@ import FooterSection from './components/FooterSection.vue'
   <div class="min-h-screen">
     <!-- Navigation -->
     <nav class="fixed top-0 left-0 right-0 bg-white/80 backdrop-blur-md z-50 border-b border-gray-200">
-      <div class="max-w-6xl mx-auto px-4 py-3 flex justify-between items-center">
-        <span class="font-bold text-xl text-blue-600">WebNavigator</span>
+      <div class="max-w-6xl mx-auto px-4 py-4 flex justify-between items-center">
+        <a
+          href="https://fellou.ai/"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="flex items-center gap-1.5 md:gap-2"
+        >
+          <img src="/fellou.png" alt="Fellou logo" class="w-9 h-9 object-contain" />
+          <span class="font-bold text-lg md:text-xl leading-none text-purple-700">Fellou AI</span>
+        </a>
         <div class="flex gap-6 text-sm">
           <a href="#abstract" class="text-gray-600 hover:text-blue-600 transition-colors">Abstract</a>
           <a href="#visualization" class="text-gray-600 hover:text-blue-600 transition-colors">Visualization</a>

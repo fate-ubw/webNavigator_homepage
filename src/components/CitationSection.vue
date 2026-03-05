@@ -1,11 +1,11 @@
 <script setup>
 import { ref } from 'vue'
 
-const bibtex = `@article{webnavigator2026,
-  title={WebNavigator: Overcoming Topological Blindness in Autonomous Web Navigation},
-  author={Author1 and Author2 and Author3},
-  journal={arXiv preprint arXiv:2602.XXXXX},
-  year={2026}
+const bibtex = `@misc{zhang2026webnavigator,
+  title={WebNavigator: Global Web Navigation via Interaction Graph Retrieval},
+  author={Xuanwang Zhang and Yuteng Han and Jinnan Qi and Mulong Xie and Zhen Wu and Xinyu Dai},
+  year={2026},
+  note={Preprint}
 }`
 
 const copied = ref(false)
