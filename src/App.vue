@@ -5,6 +5,7 @@ import MethodSection from './components/MethodSection.vue'
 import ResultsSection from './components/ResultsSection.vue'
 import VisualizationSection from './components/VisualizationSection.vue'
 import CitationSection from './components/CitationSection.vue'
+import SupporterSection from './components/SupporterSection.vue'
 import FooterSection from './components/FooterSection.vue'
 </script>
 
@@ -12,22 +13,14 @@ import FooterSection from './components/FooterSection.vue'
   <div class="min-h-screen">
     <!-- Navigation -->
     <nav class="fixed top-0 left-0 right-0 bg-white/80 backdrop-blur-md z-50 border-b border-gray-200">
-      <div class="max-w-6xl mx-auto px-4 py-4 flex justify-between items-center">
-        <a
-          href="https://fellou.ai/"
-          target="_blank"
-          rel="noopener noreferrer"
-          class="flex items-center gap-1.5 md:gap-2"
-        >
-          <img src="/fellou.png" alt="Fellou logo" class="w-9 h-9 object-contain" />
-          <span class="font-bold text-lg md:text-xl leading-none text-purple-700">Fellou AI</span>
-        </a>
+      <div class="max-w-6xl mx-auto px-4 py-4 flex justify-end items-center">
         <div class="flex gap-6 text-sm">
           <a href="#abstract" class="text-gray-600 hover:text-blue-600 transition-colors">Abstract</a>
           <a href="#visualization" class="text-gray-600 hover:text-blue-600 transition-colors">Visualization</a>
           <a href="#method" class="text-gray-600 hover:text-blue-600 transition-colors">Method</a>
           <a href="#results" class="text-gray-600 hover:text-blue-600 transition-colors">Results</a>
           <a href="#citation" class="text-gray-600 hover:text-blue-600 transition-colors">Citation</a>
+          <a href="#supporter" class="text-gray-600 hover:text-blue-600 transition-colors">Supporter</a>
         </div>
       </div>
     </nav>
@@ -39,6 +32,7 @@ import FooterSection from './components/FooterSection.vue'
       <VisualizationSection />
       <MethodSection />
       <ResultsSection />
+      <SupporterSection />
       <CitationSection />
     </main>
 

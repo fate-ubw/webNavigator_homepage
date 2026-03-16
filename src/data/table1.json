@@ -281,16 +281,16 @@
           "method": "WebNavigator (Ours)",
           "model": "Gemini-2.5-Pro",
           "actNum": "6",
-          "sr": "60.2",
+          "sr": "63.3",
           "multisite": "72.9",
-          "shopping": "38.5",
+          "shopping": "51.9",
           "cms": "66.5",
           "reddit": "85.9",
           "gitlab": "62.2",
           "map": "53.2",
           "mind2web": "52.7",
           "isOurs": true,
-          "highlights": { "sr": "best", "multisite": "best", "cms": "best", "reddit": "best", "gitlab": "best", "map": "best", "mind2web": "best" }
+          "highlights": { "sr": "best", "multisite": "best", "shopping": "best", "cms": "best", "reddit": "best", "gitlab": "best", "map": "best", "mind2web": "best" }
         }
       ]
     }
